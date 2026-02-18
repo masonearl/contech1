@@ -20,7 +20,10 @@ from pathlib import Path
 from html.parser import HTMLParser
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DATA_DIR = SCRIPT_DIR / ".." / ".." / "data"
+# Support both original repo structure (../../data) and contech1 flat structure (./data)
+_data_orig = SCRIPT_DIR / ".." / ".." / "data"
+_data_flat = SCRIPT_DIR / "data"
+DATA_DIR = _data_orig if (_data_orig / "materials.json").exists() else _data_flat
 SITE_ROOT = SCRIPT_DIR / ".." / ".." / ".." / ".." / ".."   # masonearl.com root
 CORPUS_DIR = SCRIPT_DIR / "corpus"
 CORPUS_DIR.mkdir(exist_ok=True)

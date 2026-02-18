@@ -1,0 +1,304 @@
+{
+  "notes": "Daily rates are internal cost estimates. tm_hourly is Tempest's 2022 T&M billing rate to clients. Daily = tm_hourly * 8hrs for T&M context.",
+  "excavators": {
+    "mini_excavator": {
+      "description": "Mini excavator / JD 60D (3-6 ton)",
+      "daily_rate": 299.00,
+      "weekly_rate": 1196.00,
+      "monthly_rate": 3588.00,
+      "fuel_per_hour": 3.50,
+      "tm_hourly": 37.34,
+      "typical_use": "Small utility, tight spaces, service lines"
+    },
+    "excavator_small_mid": {
+      "description": "Cat 315 / JD 120 Excavator (10-15 ton)",
+      "daily_rate": 598.00,
+      "weekly_rate": 2392.00,
+      "monthly_rate": 7176.00,
+      "fuel_per_hour": 6.00,
+      "tm_hourly": 74.69,
+      "typical_use": "Utility trenching, smaller diameter pipe"
+    },
+    "excavator_mid": {
+      "description": "JD 200 / Cat 225C Excavator (20-25 ton)",
+      "daily_rate": 663.00,
+      "weekly_rate": 2652.00,
+      "monthly_rate": 7956.00,
+      "fuel_per_hour": 8.00,
+      "tm_hourly": 82.85,
+      "typical_use": "Standard utility trenching, 8-12 inch pipe"
+    },
+    "excavator_large": {
+      "description": "Cat 320 / Cat 225C Excavator (25-30 ton)",
+      "daily_rate": 700.00,
+      "weekly_rate": 2800.00,
+      "monthly_rate": 8400.00,
+      "fuel_per_hour": 10.00,
+      "tm_hourly": 87.55,
+      "typical_use": "Deep trenching, 12-24 inch pipe"
+    },
+    "excavator_extra_large": {
+      "description": "Cat 325 / JD 270 Excavator (30-40 ton)",
+      "daily_rate": 747.00,
+      "weekly_rate": 2988.00,
+      "monthly_rate": 8964.00,
+      "fuel_per_hour": 14.00,
+      "tm_hourly": 93.39,
+      "typical_use": "Large pipe, rock, deep work"
+    },
+    "rubber_tired_backhoe": {
+      "description": "Case 580 / JD 310 Rubber Tired Backhoe",
+      "daily_rate": 299.00,
+      "weekly_rate": 1196.00,
+      "monthly_rate": 3588.00,
+      "fuel_per_hour": 4.00,
+      "tm_hourly": 37.34,
+      "typical_use": "Gas service lines, small utility, 3-man crew work"
+    }
+  },
+  "loaders": {
+    "wheel_loader": {
+      "description": "Cat IT28 / JD TC54 / Cat 938G Wheel Loader (2.5 CY)",
+      "daily_rate": 450.00,
+      "weekly_rate": 1800.00,
+      "monthly_rate": 5400.00,
+      "fuel_per_hour": 7.00,
+      "tm_hourly": 56.05,
+      "typical_use": "Loading trucks, stockpile management, backfill"
+    },
+    "wheel_loader_large": {
+      "description": "Cat 938G Wheel Loader (2.5 CY, larger model)",
+      "daily_rate": 495.00,
+      "weekly_rate": 1980.00,
+      "monthly_rate": 5940.00,
+      "fuel_per_hour": 8.00,
+      "tm_hourly": 61.88,
+      "typical_use": "Heavy loading, aggregate handling"
+    }
+  },
+  "pipelaying": {
+    "sideboom": {
+      "description": "Cat D4 Dozer w/Sideboom",
+      "daily_rate": 500.00,
+      "weekly_rate": 2000.00,
+      "monthly_rate": 6000.00,
+      "fuel_per_hour": 8.00,
+      "tm_hourly": 62.45,
+      "typical_use": "Large diameter pipe lowering"
+    },
+    "pipelayer": {
+      "description": "Cat 561 Pipelayer",
+      "daily_rate": 542.00,
+      "weekly_rate": 2168.00,
+      "monthly_rate": 6504.00,
+      "fuel_per_hour": 8.00,
+      "tm_hourly": 67.72,
+      "typical_use": "Large diameter pipe installation"
+    },
+    "challenger_sideboom": {
+      "description": "Cat Challenger Sideboom",
+      "daily_rate": 500.00,
+      "weekly_rate": 2000.00,
+      "monthly_rate": 6000.00,
+      "fuel_per_hour": 7.00,
+      "tm_hourly": 62.45,
+      "typical_use": "Pipeline lowering operations"
+    }
+  },
+  "directional_bore": {
+    "jt4020": {
+      "description": "Directional Boring Machine JT4020 w/Truck",
+      "daily_rate": 1970.00,
+      "weekly_rate": 7880.00,
+      "monthly_rate": 23640.00,
+      "fuel_per_hour": 12.00,
+      "tm_hourly": 246.23,
+      "typical_use": "Medium to large bore work, mains under roads"
+    },
+    "jt920": {
+      "description": "Directional Boring Machine JT920 w/Truck",
+      "daily_rate": 1242.00,
+      "weekly_rate": 4968.00,
+      "monthly_rate": 14904.00,
+      "fuel_per_hour": 8.00,
+      "tm_hourly": 155.22,
+      "typical_use": "Small bore work, service lines"
+    },
+    "power_mole": {
+      "description": "Power-Mole (pipe rammer/mole)",
+      "daily_rate": 294.00,
+      "weekly_rate": 1176.00,
+      "monthly_rate": 3528.00,
+      "fuel_per_hour": 2.00,
+      "tm_hourly": 36.78,
+      "typical_use": "Utility crossings, 2-4 inch pipe"
+    }
+  },
+  "compaction": {
+    "plate_compactor": {
+      "description": "Vibratory plate compactor (Outlaw Padmore or similar)",
+      "daily_rate": 243.00,
+      "weekly_rate": 972.00,
+      "monthly_rate": 2916.00,
+      "fuel_per_hour": 1.00,
+      "tm_hourly": 30.37,
+      "typical_use": "Trench backfill compaction"
+    },
+    "rammax_compactor": {
+      "description": "Rammax trench compactor",
+      "daily_rate": 205.00,
+      "weekly_rate": 820.00,
+      "monthly_rate": 2460.00,
+      "fuel_per_hour": 1.50,
+      "tm_hourly": 25.68,
+      "typical_use": "Narrow trench compaction"
+    },
+    "jumping_jack": {
+      "description": "Jumping Jack tamper",
+      "daily_rate": 150.00,
+      "weekly_rate": 600.00,
+      "monthly_rate": 1800.00,
+      "fuel_per_hour": 0.75,
+      "tm_hourly": 18.70,
+      "typical_use": "Tight areas, pipe zone compaction"
+    },
+    "asphalt_roller": {
+      "description": "Asphalt roller",
+      "daily_rate": 252.00,
+      "weekly_rate": 1008.00,
+      "monthly_rate": 3024.00,
+      "fuel_per_hour": 3.00,
+      "tm_hourly": 31.50,
+      "typical_use": "Asphalt compaction for T-patches and overlays"
+    }
+  },
+  "trucks": {
+    "dump_truck": {
+      "description": "Dump truck (single axle)",
+      "daily_rate": 448.00,
+      "weekly_rate": 1792.00,
+      "monthly_rate": 5376.00,
+      "fuel_per_hour": 6.00,
+      "tm_hourly": 56.05,
+      "typical_use": "Hauling spoils and aggregate"
+    },
+    "dump_truck_with_pup": {
+      "description": "Dump truck with pup trailer",
+      "daily_rate": 597.00,
+      "weekly_rate": 2388.00,
+      "monthly_rate": 7164.00,
+      "fuel_per_hour": 9.00,
+      "tm_hourly": 74.69,
+      "typical_use": "Heavy hauling, larger loads"
+    },
+    "water_truck": {
+      "description": "Water truck (2000 gallon)",
+      "daily_rate": 402.00,
+      "weekly_rate": 1608.00,
+      "monthly_rate": 4824.00,
+      "fuel_per_hour": 5.00,
+      "tm_hourly": 50.21,
+      "typical_use": "Dust control, compaction moisture"
+    },
+    "crew_truck": {
+      "description": "Crew truck",
+      "daily_rate": 187.00,
+      "weekly_rate": 748.00,
+      "monthly_rate": 2244.00,
+      "fuel_per_hour": 2.00,
+      "tm_hourly": 23.35,
+      "typical_use": "Crew transport, tool hauling"
+    },
+    "welding_fusing_truck": {
+      "description": "Welding/fusing truck",
+      "daily_rate": 355.00,
+      "weekly_rate": 1420.00,
+      "monthly_rate": 4260.00,
+      "fuel_per_hour": 4.00,
+      "tm_hourly": 44.37,
+      "typical_use": "Pipeline welding and fusion operations"
+    }
+  },
+  "specialty": {
+    "rock_hammer": {
+      "description": "Hydraulic rock hammer attachment",
+      "daily_rate": 486.00,
+      "weekly_rate": 1944.00,
+      "monthly_rate": 5832.00,
+      "fuel_per_hour": 0,
+      "tm_hourly": 60.69,
+      "typical_use": "Rock excavation, concrete breaking"
+    },
+    "asphalt_saw": {
+      "description": "Asphalt saw w/truck",
+      "daily_rate": 495.00,
+      "weekly_rate": 1980.00,
+      "monthly_rate": 5940.00,
+      "fuel_per_hour": 3.00,
+      "tm_hourly": 61.88,
+      "typical_use": "Pavement cutting for road crossings and T-patches"
+    },
+    "asphalt_zipper": {
+      "description": "24\"-36\" Asphalt Zipper (cold planer)",
+      "daily_rate": 597.00,
+      "weekly_rate": 2388.00,
+      "monthly_rate": 7164.00,
+      "fuel_per_hour": 6.00,
+      "tm_hourly": 74.69,
+      "typical_use": "Asphalt milling, trench opening"
+    },
+    "dewatering_pump": {
+      "description": "Dewatering pump (2-3 inch)",
+      "daily_rate": 56.00,
+      "weekly_rate": 224.00,
+      "monthly_rate": 672.00,
+      "fuel_per_hour": 1.50,
+      "tm_hourly": 7.03,
+      "typical_use": "Trench dewatering"
+    },
+    "trench_box": {
+      "description": "Trench shield / box",
+      "daily_rate": 125.00,
+      "weekly_rate": 500.00,
+      "monthly_rate": 1500.00,
+      "fuel_per_hour": 0,
+      "typical_use": "Trench safety for depths > 5ft (OSHA requirement)"
+    },
+    "fusion_machine_large": {
+      "description": "Butt fusion machine 10\"-18\" w/generator",
+      "daily_rate": 500.00,
+      "weekly_rate": 2000.00,
+      "monthly_rate": 6000.00,
+      "fuel_per_hour": 2.00,
+      "tm_hourly": 62.45,
+      "typical_use": "Large diameter PE pipe fusion (waterline, gas main)"
+    },
+    "fusion_machine_small": {
+      "description": "Butt fusion machine 6\"-8\" w/generator",
+      "daily_rate": 294.00,
+      "weekly_rate": 1176.00,
+      "monthly_rate": 3528.00,
+      "fuel_per_hour": 1.50,
+      "tm_hourly": 36.78,
+      "typical_use": "Medium PE pipe fusion (gas lines)"
+    },
+    "air_compressor_large": {
+      "description": "Air compressor 375 CFM",
+      "daily_rate": 355.00,
+      "weekly_rate": 1420.00,
+      "monthly_rate": 4260.00,
+      "fuel_per_hour": 5.00,
+      "tm_hourly": 44.37,
+      "typical_use": "Pneumatic tools, pipe testing"
+    },
+    "missile_8_12in": {
+      "description": "8-12 inch pipe rammer (missile)",
+      "daily_rate": 966.00,
+      "weekly_rate": 3864.00,
+      "monthly_rate": 11592.00,
+      "fuel_per_hour": 3.00,
+      "tm_hourly": 120.76,
+      "typical_use": "Road crossings, casing pipe installation"
+    }
+  }
+}

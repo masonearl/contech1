@@ -1,0 +1,81 @@
+{
+  "pipe": {
+    "pvc": {
+      "4_inch": { "unit": "LF", "cost": 4.50, "waste_factor": 0.10 },
+      "6_inch": { "unit": "LF", "cost": 7.25, "waste_factor": 0.10 },
+      "8_inch": { "unit": "LF", "cost": 11.00, "waste_factor": 0.10 },
+      "10_inch": { "unit": "LF", "cost": 16.50, "waste_factor": 0.10 },
+      "12_inch": { "unit": "LF", "cost": 22.00, "waste_factor": 0.10 }
+    },
+    "dip": {
+      "4_inch": { "unit": "LF", "cost": 8.50, "waste_factor": 0.10 },
+      "6_inch": { "unit": "LF", "cost": 12.00, "waste_factor": 0.10 },
+      "8_inch": { "unit": "LF", "cost": 18.00, "waste_factor": 0.10 },
+      "10_inch": { "unit": "LF", "cost": 24.00, "waste_factor": 0.10 },
+      "12_inch": { "unit": "LF", "cost": 32.00, "waste_factor": 0.10 },
+      "16_inch": { "unit": "LF", "cost": 48.00, "waste_factor": 0.10 }
+    },
+    "hdpe": {
+      "4_inch": { "unit": "LF", "cost": 5.00, "waste_factor": 0.08 },
+      "6_inch": { "unit": "LF", "cost": 8.00, "waste_factor": 0.08 },
+      "8_inch": { "unit": "LF", "cost": 13.00, "waste_factor": 0.08 },
+      "12_inch": { "unit": "LF", "cost": 25.00, "waste_factor": 0.08 }
+    },
+    "corrugated": {
+      "12_inch": { "unit": "LF", "cost": 8.00, "waste_factor": 0.10 },
+      "18_inch": { "unit": "LF", "cost": 14.00, "waste_factor": 0.10 },
+      "24_inch": { "unit": "LF", "cost": 22.00, "waste_factor": 0.10 },
+      "36_inch": { "unit": "LF", "cost": 40.00, "waste_factor": 0.10 },
+      "48_inch": { "unit": "LF", "cost": 65.00, "waste_factor": 0.10 }
+    }
+  },
+  "concrete": {
+    "3000_psi": { "unit": "CY", "cost": 166.00, "waste_factor": 0.05 },
+    "4000_psi": { "unit": "CY", "cost": 180.00, "waste_factor": 0.05 },
+    "4500_psi": { "unit": "CY", "cost": 195.00, "waste_factor": 0.05 },
+    "flowable_fill": { "unit": "CY", "cost": 120.00, "waste_factor": 0.10 }
+  },
+  "rebar": {
+    "3_bar": { "unit": "LF", "cost": 0.85, "waste_factor": 0.12 },
+    "4_bar": { "unit": "LF", "cost": 1.25, "waste_factor": 0.12 },
+    "5_bar": { "unit": "LF", "cost": 1.75, "waste_factor": 0.12 },
+    "6_bar": { "unit": "LF", "cost": 2.50, "waste_factor": 0.12 }
+  },
+  "aggregate": {
+    "road_base": { "unit": "TON", "cost": 18.00, "waste_factor": 0.10 },
+    "gravel_3_4": { "unit": "TON", "cost": 22.00, "waste_factor": 0.10 },
+    "pipe_bedding": { "unit": "TON", "cost": 20.00, "waste_factor": 0.15 },
+    "riprap": { "unit": "TON", "cost": 35.00, "waste_factor": 0.10 }
+  },
+  "asphalt": {
+    "hot_mix": { "unit": "TON", "cost": 95.00, "waste_factor": 0.05 },
+    "cold_patch": { "unit": "TON", "cost": 110.00, "waste_factor": 0.10 },
+    "tack_coat": { "unit": "GAL", "cost": 3.50, "waste_factor": 0.05 }
+  },
+  "fittings": {
+    "gate_valve_4": { "unit": "EA", "cost": 350.00 },
+    "gate_valve_6": { "unit": "EA", "cost": 525.00 },
+    "gate_valve_8": { "unit": "EA", "cost": 750.00 },
+    "gate_valve_12": { "unit": "EA", "cost": 1400.00 },
+    "fire_hydrant": { "unit": "EA", "cost": 3200.00 },
+    "tee_4": { "unit": "EA", "cost": 180.00 },
+    "tee_6": { "unit": "EA", "cost": 280.00 },
+    "tee_8": { "unit": "EA", "cost": 420.00 },
+    "bend_45_4": { "unit": "EA", "cost": 85.00 },
+    "bend_45_6": { "unit": "EA", "cost": 130.00 },
+    "bend_45_8": { "unit": "EA", "cost": 200.00 },
+    "bend_90_4": { "unit": "EA", "cost": 95.00 },
+    "bend_90_6": { "unit": "EA", "cost": 145.00 },
+    "bend_90_8": { "unit": "EA", "cost": 220.00 },
+    "manhole_4ft": { "unit": "EA", "cost": 3500.00 },
+    "manhole_5ft": { "unit": "EA", "cost": 4200.00 },
+    "catch_basin": { "unit": "EA", "cost": 2800.00 }
+  },
+  "misc": {
+    "tracer_wire": { "unit": "LF", "cost": 0.15, "waste_factor": 0.05 },
+    "warning_tape": { "unit": "LF", "cost": 0.08, "waste_factor": 0.05 },
+    "thrust_block_concrete": { "unit": "CY", "cost": 180.00, "waste_factor": 0.10 },
+    "silt_fence": { "unit": "LF", "cost": 2.50, "waste_factor": 0.05 },
+    "erosion_blanket": { "unit": "SY", "cost": 3.00, "waste_factor": 0.10 }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "units": {
+    "LF": "Linear Feet - length measurement for pipe, curb, etc.",
+    "CY": "Cubic Yard - volume measurement for concrete, excavation, fill",
+    "SY": "Square Yard - area measurement for paving, erosion blanket",
+    "SF": "Square Feet - area measurement for forming, surfaces",
+    "TON": "Ton (2000 lbs) - weight measurement for aggregate, asphalt",
+    "EA": "Each - count for fittings, structures, valves",
+    "LS": "Lump Sum - flat price for a scope of work",
+    "GAL": "Gallon - volume for liquids like tack coat",
+    "HR": "Hour - time measurement for labor and equipment"
+  },
+  "project_types": {
+    "waterline": "Pressurized water distribution pipe (DIP, PVC, HDPE). Typically 3-6 ft depth. Includes valves, fittings, hydrants.",
+    "sewer": "Gravity sewer main (PVC). Deeper depths (6-15 ft), requires grade control. Includes manholes.",
+    "storm_drain": "Storm water conveyance (corrugated, RCP). Variable depth. Includes catch basins, manholes.",
+    "gas": "Natural gas distribution line. Shallow depth (2-3 ft). HDPE pipe. Requires fusion welding.",
+    "electrical": "Underground electrical conduit and duct bank. Variable depth. PVC conduit, concrete encasement."
+  },
+  "soil_types": {
+    "sand": "Easy to excavate, needs trench support in wet conditions. Good drainage. Low production impact.",
+    "clay": "Moderate difficulty. Holds shape well but heavy. Can swell when wet. Moderate production impact.",
+    "gravel": "Easy to excavate but doesn't hold trench walls. Needs good bedding material. Low-moderate impact.",
+    "rock": "Requires hydraulic hammer or blasting. Major production impact (60-70% slower). Significant cost adder."
+  },
+  "construction_terms": {
+    "takeoff": "The process of measuring quantities from construction plans/blueprints",
+    "bid": "A formal price proposal submitted to win a construction project",
+    "change_order": "A modification to the original contract scope, typically adjusting cost and/or schedule",
+    "RFI": "Request for Information - formal question to the engineer/architect about plans",
+    "submittals": "Product data, shop drawings, or samples sent to engineer for approval before installation",
+    "mobilization": "Moving equipment, materials, and crew to the job site at project start",
+    "demobilization": "Removing equipment and cleaning up at project completion",
+    "backfill": "Filling the trench back in after pipe is installed and inspected",
+    "bedding": "Select material placed in the trench bottom for pipe to rest on",
+    "compaction": "Mechanically compacting soil/fill to required density (typically 95% Proctor)",
+    "dewatering": "Pumping groundwater out of the trench to allow work in dry conditions",
+    "shoring": "Trench support system to prevent cave-in (required by OSHA over 5 ft depth)",
+    "bore": "Drilling horizontally under a road or obstruction to install pipe without open-cutting",
+    "open_cut": "Cutting through pavement/surface to install pipe in a trench",
+    "thrust_block": "Concrete block poured behind pipe fittings to resist pressure forces",
+    "potholing": "Carefully exposing existing utilities before digging to avoid hitting them",
+    "as_builts": "Updated drawings showing what was actually installed vs what was planned",
+    "punch_list": "List of items to fix or complete before final project acceptance",
+    "retainage": "Percentage of payment withheld until project completion (typically 5-10%)",
+    "bonding": "Surety bond guaranteeing contractor will complete the work (bid bond, performance bond, payment bond)",
+    "prevailing_wage": "Government-mandated minimum wage rates for public works projects (Davis-Bacon)",
+    "production_rate": "How much work a crew can complete per day (e.g., 150 LF/day of 8-inch waterline)"
+  }
+}

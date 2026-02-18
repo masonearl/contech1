@@ -1,0 +1,184 @@
+{
+  "notes": "Internal burdened rates reflect estimated all-in cost to Tempest. tm_rate is the 2022 T&M billing rate to clients (includes overhead and profit). Burdened = base * burden_rate.",
+  "rates": {
+    "project_manager": {
+      "base_hourly": 75.00,
+      "burden_rate": 1.35,
+      "burdened_hourly": 101.25,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 124.56,
+      "tm_ot_rate": 186.84,
+      "description": "Project manager"
+    },
+    "superintendent": {
+      "base_hourly": 50.00,
+      "burden_rate": 1.35,
+      "burdened_hourly": 67.50,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 79.96,
+      "tm_ot_rate": 119.95,
+      "description": "Project superintendent"
+    },
+    "foreman": {
+      "base_hourly": 43.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 62.35,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 67.80,
+      "tm_ot_rate": 101.70,
+      "description": "Job foreman / working foreman"
+    },
+    "welder": {
+      "base_hourly": 43.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 62.35,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 68.28,
+      "tm_ot_rate": 102.43,
+      "description": "Certified pipeline welder"
+    },
+    "fuser": {
+      "base_hourly": 32.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 46.40,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 51.85,
+      "tm_ot_rate": 77.78,
+      "description": "PE pipe fuser"
+    },
+    "operator": {
+      "base_hourly": 40.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 58.00,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 63.57,
+      "tm_ot_rate": 95.36,
+      "description": "Heavy equipment operator (backhoe/excavator)"
+    },
+    "loader_operator": {
+      "base_hourly": 38.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 55.10,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 61.85,
+      "tm_ot_rate": 92.78,
+      "description": "Rubber tired loader operator"
+    },
+    "directional_bore_operator": {
+      "base_hourly": 43.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 62.35,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 68.28,
+      "tm_ot_rate": 102.43,
+      "description": "Directional bore machine operator/locator"
+    },
+    "pipe_layer": {
+      "base_hourly": 30.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 43.50,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 51.85,
+      "tm_ot_rate": 77.78,
+      "description": "Skilled pipe layer"
+    },
+    "laborer": {
+      "base_hourly": 29.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 42.05,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 47.90,
+      "tm_ot_rate": 71.85,
+      "description": "General laborer"
+    },
+    "dump_truck_driver": {
+      "base_hourly": 31.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 44.95,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 49.45,
+      "tm_ot_rate": 74.17,
+      "description": "Dump truck driver"
+    },
+    "flag_person": {
+      "base_hourly": 22.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 31.90,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 37.00,
+      "tm_ot_rate": 55.50,
+      "description": "Traffic control flagger"
+    },
+    "mechanic": {
+      "base_hourly": 36.00,
+      "burden_rate": 1.45,
+      "burdened_hourly": 52.20,
+      "overtime_multiplier": 1.5,
+      "tm_rate": 57.69,
+      "tm_ot_rate": 86.53,
+      "description": "Mechanic / parts chaser"
+    }
+  },
+  "typical_crews": {
+    "three_man_with_backhoe": {
+      "description": "Standard 3-man gas/service line crew with backhoe (Tempest T&M standard)",
+      "members": [
+        { "role": "foreman", "count": 1 },
+        { "role": "operator", "count": 1 },
+        { "role": "laborer", "count": 1 }
+      ],
+      "daily_cost": 1541.76,
+      "daily_tm_rate": 3500.00,
+      "note": "Daily T&M rate to SWG includes equipment; typical for Southwest Gas work"
+    },
+    "waterline_small": {
+      "description": "4-6 inch waterline crew",
+      "members": [
+        { "role": "foreman", "count": 1 },
+        { "role": "operator", "count": 1 },
+        { "role": "pipe_layer", "count": 1 },
+        { "role": "laborer", "count": 2 }
+      ],
+      "daily_cost": 1994.00
+    },
+    "waterline_large": {
+      "description": "8-16 inch waterline crew",
+      "members": [
+        { "role": "foreman", "count": 1 },
+        { "role": "operator", "count": 2 },
+        { "role": "pipe_layer", "count": 2 },
+        { "role": "laborer", "count": 3 }
+      ],
+      "daily_cost": 3631.20
+    },
+    "sewer_crew": {
+      "description": "Sewer main installation crew",
+      "members": [
+        { "role": "foreman", "count": 1 },
+        { "role": "operator", "count": 2 },
+        { "role": "pipe_layer", "count": 2 },
+        { "role": "laborer", "count": 3 }
+      ],
+      "daily_cost": 3631.20
+    },
+    "storm_drain_crew": {
+      "description": "Storm drain installation crew",
+      "members": [
+        { "role": "foreman", "count": 1 },
+        { "role": "operator", "count": 2 },
+        { "role": "pipe_layer", "count": 1 },
+        { "role": "laborer", "count": 3 }
+      ],
+      "daily_cost": 3255.10
+    },
+    "directional_bore_crew": {
+      "description": "Directional bore crew (JT4020)",
+      "members": [
+        { "role": "foreman", "count": 1 },
+        { "role": "directional_bore_operator", "count": 1 },
+        { "role": "laborer", "count": 2 }
+      ],
+      "daily_cost": 2146.50
+    }
+  }
+}

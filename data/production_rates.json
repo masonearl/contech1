@@ -1,0 +1,87 @@
+{
+  "pipe_installation": {
+    "waterline": {
+      "4_inch": {
+        "sand":   { "lf_per_day": 200, "depth_range": "3-4 ft" },
+        "clay":   { "lf_per_day": 160, "depth_range": "3-4 ft" },
+        "gravel": { "lf_per_day": 180, "depth_range": "3-4 ft" },
+        "rock":   { "lf_per_day": 60,  "depth_range": "3-4 ft" }
+      },
+      "6_inch": {
+        "sand":   { "lf_per_day": 180, "depth_range": "3.5-5 ft" },
+        "clay":   { "lf_per_day": 140, "depth_range": "3.5-5 ft" },
+        "gravel": { "lf_per_day": 160, "depth_range": "3.5-5 ft" },
+        "rock":   { "lf_per_day": 50,  "depth_range": "3.5-5 ft" }
+      },
+      "8_inch": {
+        "sand":   { "lf_per_day": 150, "depth_range": "4-5.5 ft" },
+        "clay":   { "lf_per_day": 120, "depth_range": "4-5.5 ft" },
+        "gravel": { "lf_per_day": 130, "depth_range": "4-5.5 ft" },
+        "rock":   { "lf_per_day": 40,  "depth_range": "4-5.5 ft" }
+      },
+      "12_inch": {
+        "sand":   { "lf_per_day": 120, "depth_range": "4.5-6 ft" },
+        "clay":   { "lf_per_day": 90,  "depth_range": "4.5-6 ft" },
+        "gravel": { "lf_per_day": 100, "depth_range": "4.5-6 ft" },
+        "rock":   { "lf_per_day": 30,  "depth_range": "4.5-6 ft" }
+      }
+    },
+    "sewer": {
+      "8_inch": {
+        "sand":   { "lf_per_day": 120, "depth_range": "6-10 ft" },
+        "clay":   { "lf_per_day": 90,  "depth_range": "6-10 ft" },
+        "gravel": { "lf_per_day": 100, "depth_range": "6-10 ft" },
+        "rock":   { "lf_per_day": 35,  "depth_range": "6-10 ft" }
+      },
+      "12_inch": {
+        "sand":   { "lf_per_day": 100, "depth_range": "8-12 ft" },
+        "clay":   { "lf_per_day": 70,  "depth_range": "8-12 ft" },
+        "gravel": { "lf_per_day": 80,  "depth_range": "8-12 ft" },
+        "rock":   { "lf_per_day": 25,  "depth_range": "8-12 ft" }
+      }
+    },
+    "storm_drain": {
+      "12_inch": {
+        "sand":   { "lf_per_day": 150, "depth_range": "3-6 ft" },
+        "clay":   { "lf_per_day": 120, "depth_range": "3-6 ft" },
+        "gravel": { "lf_per_day": 130, "depth_range": "3-6 ft" },
+        "rock":   { "lf_per_day": 45,  "depth_range": "3-6 ft" }
+      },
+      "24_inch": {
+        "sand":   { "lf_per_day": 100, "depth_range": "4-8 ft" },
+        "clay":   { "lf_per_day": 75,  "depth_range": "4-8 ft" },
+        "gravel": { "lf_per_day": 85,  "depth_range": "4-8 ft" },
+        "rock":   { "lf_per_day": 30,  "depth_range": "4-8 ft" }
+      },
+      "36_inch": {
+        "sand":   { "lf_per_day": 70, "depth_range": "5-10 ft" },
+        "clay":   { "lf_per_day": 50, "depth_range": "5-10 ft" },
+        "gravel": { "lf_per_day": 60, "depth_range": "5-10 ft" },
+        "rock":   { "lf_per_day": 20, "depth_range": "5-10 ft" }
+      }
+    }
+  },
+  "condition_multipliers": {
+    "dewatering": 0.70,
+    "rock_excavation": 0.35,
+    "road_crossing": 0.50,
+    "winter_conditions": 0.80,
+    "night_work": 0.75,
+    "confined_space": 0.60,
+    "heavy_traffic": 0.65,
+    "deep_trench_over_10ft": 0.60
+  },
+  "season_multipliers": {
+    "winter": 0.85,
+    "spring": 1.00,
+    "summer": 1.00,
+    "fall": 0.95
+  },
+  "location_multipliers": {
+    "salt_lake_metro": 1.00,
+    "utah_county": 0.95,
+    "davis_weber": 0.98,
+    "rural_utah": 0.88,
+    "mountain_areas": 1.15
+  }
+}
