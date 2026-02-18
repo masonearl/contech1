@@ -285,9 +285,11 @@ def build_knowledge(materials, labor, equipment, production, terms):
 
     lines.append("\n# Equipment Rates\n")
     for cat, items in equipment.items():
+        if not isinstance(items, dict): continue  # skip "notes" string key
         cat_nice = cat.replace("_", " ").title()
         lines.append(f"## {cat_nice}\n")
         for _, info in items.items():
+            if not isinstance(info, dict): continue
             lines.append(
                 f"{info['description']}: ${fmt(info['daily_rate'])}/day, "
                 f"${fmt(info['weekly_rate'])}/week, "
@@ -364,8 +366,10 @@ def build_rate_qa(materials, labor, equipment):
         pairs.append((random.choice(q_options), random.choice(a_options)))
 
     for cat, items in equipment.items():
+        if not isinstance(items, dict): continue
         for _, info in items.items():
-            desc = info["description"]
+            if not isinstance(info, dict): continue
+            desc = info.get("description", cat)
             q_options = [
                 f"How much does a {desc.lower()} cost per day?",
                 f"What's the rental rate for a {desc.lower()}?",
