@@ -1,0 +1,1685 @@
+# Tempest Enterprises T&M Rate Schedule (2022)
+
+These are Tempest Enterprises' actual time-and-materials billing rates to clients. All material is invoiced at cost plus 10%. Rental equipment without fuel/maintenance invoiced at cost plus 10%.
+
+## Labor Rates (Hourly)
+Project Manager: $124.56/hr regular, $186.84/hr OT
+Superintendent: $79.96/hr regular, $119.95/hr OT
+Foreman: $67.80/hr regular, $101.70/hr OT
+Welder: $68.28/hr regular, $102.43/hr OT
+Fuser: $51.85/hr regular, $77.78/hr OT
+Meter Setter: $51.80/hr regular, $77.70/hr OT
+Backhoe Operator: $63.57/hr regular, $95.36/hr OT
+Loader Operator: $61.85/hr regular, $92.78/hr OT
+Directional Bore Machine Operator: $68.28/hr regular, $102.43/hr OT
+Trencher/Plow Operator: $61.85/hr regular, $92.78/hr OT
+Sideboom Operator: $63.57/hr regular, $95.36/hr OT
+Transport Truck Driver: $58.87/hr regular, $88.30/hr OT
+Dump Truck Driver: $49.45/hr regular, $74.17/hr OT
+Welder's Helper: $51.85/hr regular, $77.78/hr OT
+Laborer: $47.90/hr regular, $71.85/hr OT
+Flag Person: $37/hr regular, $55.50/hr OT
+Mechanic/Parts Chaser: $57.69/hr regular, $86.53/hr OT
+
+## Equipment Rates (Hourly)
+Cat 325 / JD 270 Excavator (Large): $93.39/hr
+Cat 320 / Cat 225C Excavator (Mid-Large): $87.55/hr
+John Deere 200 Excavator (Mid): $82.85/hr
+Cat 315 / JD 120 Excavator (Small-Mid): $74.69/hr
+Case 580 / JD 310 Rubber Tired Backhoe: $37.34/hr
+John Deere 60D Mini Excavator: $37.34/hr
+Rock Hammer (attachment): $60.69/hr
+Compactor Plate (attachment): $30.37/hr
+Cat IT28 2.5 cy Rubber Tired Loader: $56.05/hr
+Cat 938G 2.5 cy Rubber Tired Loader: $61.88/hr
+24"-36" Asphalt Zipper: $74.69/hr
+Cat D4 Dozer w/Sideboom: $62.45/hr
+Cat 561 Pipelayer: $67.72/hr
+Cat Challenger Sideboom: $62.45/hr
+Air Compressor 185 CFM: $18.70/hr
+Air Compressor 375 CFM: $44.37/hr
+Rammax Compactor: $25.68/hr
+Asphalt Saw w/Truck: $61.88/hr
+Asphalt Roller: $31.50/hr
+Jumping Jack Compactor: $18.70/hr
+Directional Boring Machine JT4020 w/Truck: $246.23/hr
+Directional Boring Machine JT920 w/Truck: $155.22/hr
+Butt Fusion Machine 10"-18": $62.45/hr
+Butt Fusion Machine 6"-8": $36.78/hr
+Butt Fusion Machine 4": $18.70/hr
+Dump Truck: $56.05/hr
+Dump Truck with Pup: $74.69/hr
+Water Truck 2000 Gallon: $50.21/hr
+Welding/Fusing Truck: $44.37/hr
+Crew Truck: $23.35/hr
+Pickup Truck: $19.55/hr
+
+---
+
+# Herriman City Old Town Waterline Replacement - Bid Breakdown
+
+Owner: Herriman City | Location: Herriman, Utah | Year: 2025
+Contract Value: $3,551,512
+Scope: 13,196 LF of 8-inch PVC C900 waterline replacement with service laterals, valves, and hydrants
+
+## Bid Line Items
+- Mobilization: $80,000/LS (qty: 1, total: $80,000)
+- Quality Control & Testing: $35,000/LS (qty: 1, total: $35,000)
+- Traffic Control: $19,866/LS (qty: 1, total: $19,866)
+- Subsurface Investigation: $130/HR (qty: 80, total: $10,400)
+- Remove & Replace Landscaping: $20,476/LS (qty: 1, total: $20,476)
+- Remove & Replace Curb & Gutter: $61.50/LF (qty: 202, total: $12,423)
+- Remove & Replace Sidewalk (6" Thick): $195/SY (qty: 130, total: $25,350)
+- Remove Trench Asphalt (4" Thick): $18.50/SY (qty: 3,773, total: $69,800.50)
+- Replace Asphalt T-Patch (4" Thick): $284/TON (qty: 1,053, total: $299,052)
+- Untreated Base Course (8" Thick): $26/TON (qty: 1,733, total: $45,058)
+- Remove & Replace Gravel Shoulder: $8.50/SY (qty: 11,991, total: $101,923.50)
+- Remove Existing Water Valves: $1,416/EA (qty: 40, total: $56,640)
+- Water Mainline Tie-Ins: $6,661/EA (qty: 30, total: $199,830)
+- Water Mainline Hot Tap Connection: $14,501/EA (qty: 1, total: $14,501)
+- Cut, Cap, & Abandon Existing Waterline: $2,202/EA (qty: 18, total: $39,636)
+- Import Pipe Zone Backfill: $6.30/LF (qty: 13,426, total: $84,583.80)
+- Import Pipe Trench Fill: $9.70/LF (qty: 13,426, total: $130,232.20)
+- 8" PVC C900 Pipe: $46/LF (qty: 13,196, total: $607,016)
+- 10" PVC C900 Pipe: $184/LF (qty: 230, total: $42,320)
+- 6" Gate Valve (Class 250): $3,261/EA (qty: 3, total: $9,783)
+- 8" Gate Valve (Class 250): $4,163/EA (qty: 43, total: $179,009)
+- 10" Gate Valve (Class 250): $5,748/EA (qty: 12, total: $68,976)
+- 16" Butterfly Valve (Class 250): $13,062/EA (qty: 6, total: $78,372)
+- Remove & Replace Fire Hydrant Assembly: $10,844/EA (qty: 20, total: $216,880)
+- Fire Hydrant Laterals: $33/LF (qty: 500, total: $16,500)
+- 1" Service Lateral: $42/LF (qty: 3,360, total: $141,120)
+- 1" Service Meter Box & Setter: $2,298/EA (qty: 103, total: $236,694)
+- 2" Service Lateral: $52/LF (qty: 160, total: $8,320)
+- 2" Service Meter Box & Setter: $6,948/EA (qty: 2, total: $13,896)
+- Install Pressure Reducing Valve (PRV): $20,585/EA (qty: 2, total: $41,170)
+- PRV Electrical: $187,035/LS (qty: 2, total: $374,070)
+- Water Line Loop at Utility Crossing: $9,232/EA (qty: 28, total: $258,496)
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a laborer?<|end|>
+<|assistant|>The T&M billing rate for a laborer is $47.90/hr regular time, $71.85/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 1-1/2" state spec road base?<|end|>
+<|assistant|>$10.10/ton for 1-1/2" state spec road base at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a transport truck driver?<|end|>
+<|assistant|>The T&M billing rate for a transport truck driver is $58.87/hr regular time, $88.30/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a meter setter?<|end|>
+<|assistant|>On T&M work, a meter setter bills at $51.80 per hour ($77.70/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Salem Arrowhead Reinforcement project.<|end|>
+<|assistant|>The Salem Arrowhead Reinforcement project (Springville, Utah, 2022) was a IHP gas reinforcement job. Tempest bid $783,563 total ($106.90/LF) for 7,330 LF of 6". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for subsurface investigation on the Herriman City project?<|end|>
+<|assistant|>Tempest used $130/HR for subsurface investigation on the Herriman City job. Total: $10,400 for 80 HR.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>How many linear feet per day can a Case 580 / JD 310 Rubber Tired Backhoe install?<|end|>
+<|assistant|>For Case 580 / JD 310 Rubber Tired Backhoe: 33 LF/8-hr day or 45 LF/10-hr day. Limiting factor is excavating at 6 LF/hr. Conditions: hard soil, roadway, shoring required, utility conflicts.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for P-159 (pipe bedding)?<|end|>
+<|assistant|>$8.60/ton for P-159 (pipe bedding) at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat 325 / jd 270 excavator (large)?<|end|>
+<|assistant|>The Cat 325 / JD 270 Excavator (Large) bills at $93.39/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 4" gas line work?<|end|>
+<|assistant|>$34.92/LF for 4" IHP gas line at Dyno Nobel Gas Line (2023). 3,240 LF, total $113,144. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for commercial road base?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, commercial road base is $7.60/ton from the Keigley, Genola quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 8" relocation cost per foot in Utah?<|end|>
+<|assistant|>On the Harrison Blvd IHP Relocation project (Ogden, Utah, 2021), Tempest bid $227.98/LF for 1,215 LF of 8" IHP gas relocation. Total: $276,994.30. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1-1/2" state spec road base cost?<|end|>
+<|assistant|>$8.55/ton for 1-1/2" state spec road base at Tempest rates from SPC's Grantsville location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a 24"-36" asphalt zipper?<|end|>
+<|assistant|>$74.69/hr is the T&M rate for a 24"-36" asphalt zipper.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 6" gas line work?<|end|>
+<|assistant|>On the Salem Arrowhead Reinforcement project (Springville, Utah, 2022), Tempest bid $106.90/LF for 7,330 LF of 6" IHP gas reinforcement. Total: $783,563. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a mechanic/parts chaser on T&M work?<|end|>
+<|assistant|>On T&M work, a mechanic/parts chaser bills at $57.69 per hour ($86.53/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove & replace gravel shoulder on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Gravel Shoulder was bid at $8.50/SY (11,991 SY x $8.50 = $101,923.50).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the American Fork UDOT Relocation job?<|end|>
+<|assistant|>The American Fork UDOT Relocation project (American Fork, Utah, 2021) was a IHP gas relocation job. Tempest bid $350,072.85 total ($128.47/LF) for 2,725 LF of 2". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 4" line cost per foot in Utah?<|end|>
+<|assistant|>$174.46/LF for 4" IHP gas line at Kilby Road IHP (2022). 2,400 LF, total $418,710. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per LF did we bid for 8" pvc c900 pipe?<|end|>
+<|assistant|>Tempest used $46/LF for 8" pvc c900 pipe on the Herriman City job. Total: $607,016 for 13,196 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for 1" crushed rock from SPC?<|end|>
+<|assistant|>$17.80/ton for 1" crushed rock at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a directional boring machine jt4020 w/truck?<|end|>
+<|assistant|>$246.23/hr is the T&M rate for a directional boring machine jt4020 w/truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>What's the LF/day production for a Cat 320 Excavator on utility work?<|end|>
+<|assistant|>A Cat 320 Excavator produces approximately 121 LF/day on an 8-hour day, or 165 LF/day on a 10-hour day for standard utility pipe work. Net rate: 22 LF/hr (limited by excavating). This assumes hard soil conditions, roadway work with shoring, and utility congestion.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a backhoe operator on T&M work?<|end|>
+<|assistant|>On T&M work, a backhoe operator bills at $63.57 per hour ($95.36/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for replace asphalt t-patch (4" thick) on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Replace Asphalt T-Patch (4" Thick) was bid at $284/TON (1,053 TON x $284 = $299,052).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a superintendent?<|end|>
+<|assistant|>The T&M billing rate for a superintendent is $79.96/hr regular time, $119.95/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Millcreek IHP Replacement project.<|end|>
+<|assistant|>The Millcreek IHP Replacement project (Salt Lake City, Utah, 2021) was a IHP gas replacement job. Tempest bid $741,277.90 total ($218.67/LF) for 3,390 LF of 2". Awarded to tempest. Extremely rocky conditions, lots of difficult services<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat 320 / cat 225c excavator (mid-large)?<|end|>
+<|assistant|>$87.55/hr is the T&M rate for a cat 320 / cat 225c excavator (mid-large).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for untreated base course (8" thick) on the Herriman City job?<|end|>
+<|assistant|>Tempest used $26/TON for untreated base course (8" thick) on the Herriman City job. Total: $45,058 for 1,733 TON.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for import pipe zone backfill on the Herriman City project?<|end|>
+<|assistant|>Tempest used $6.30/LF for import pipe zone backfill on the Herriman City job. Total: $84,583.80 for 13,426 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a sideboom operator?<|end|>
+<|assistant|>On T&M work, a sideboom operator bills at $63.57 per hour ($95.36/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3" minus borrow cost?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3" minus borrow is $9.25/ton from the Lehi West quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a rammax compactor?<|end|>
+<|assistant|>The Rammax Compactor bills at $25.68/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the Koch Mechanical Bore bid?<|end|>
+<|assistant|>The Koch Mechanical Bore project (800 W State St, Farmington, Utah, 2021) was a HDD bore job. Tempest bid $4,536 total ($151.20/LF) for 30 LF of 10" HDPE. Awarded to tempest. 10" HDPE bore under the jail<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a flag person on T&M work?<|end|>
+<|assistant|>On T&M work, a flag person bills at $37 per hour ($55.50/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 8" waterline cost per foot in Utah?<|end|>
+<|assistant|>$92.72/LF for 8" waterline at Kilby Road Irrigation Waterline (2021). 3,413 LF, total $316,466.37. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat challenger sideboom?<|end|>
+<|assistant|>$62.45/hr is the T&M rate for a cat challenger sideboom.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 8" gas line work?<|end|>
+<|assistant|>$244.47/LF for 8" IHP gas reinforcement at Springville UDOT Reinforcement (2023). 4,025 LF, total $984,002.40. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did Import Pipe Trench Fill cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), Import Pipe Trench Fill was $9.70/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 2" replacement cost per foot in Utah?<|end|>
+<|assistant|>On the Monterey Circle IHP Replacement project (Cottonwood Heights, Utah, 2022), Tempest bid $217.01/LF for 3,550 LF of 2" IHP gas replacement. Total: $770,382.50. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a foreman?<|end|>
+<|assistant|>The T&M billing rate for a foreman is $67.80/hr regular time, $101.70/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Kilby Road IHP project.<|end|>
+<|assistant|>The Kilby Road IHP project (Park City, Utah, 2022) was a IHP gas line job. Tempest bid $418,710 total ($174.46/LF) for 2,400 LF of 4". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a flag person on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a flag person is $37/hr regular time, $55.50/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 4" IHP gas replacement?<|end|>
+<|assistant|>On the Ogden Replacements Bid Package project (Ogden/Clearfield/Uintah, Utah, 2021), Tempest bid $117.08/LF for 3,725 LF of 4" IHP gas replacement. Total: $436,112.75. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a superintendent on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a superintendent is $79.96/hr regular time, $119.95/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a project manager?<|end|>
+<|assistant|>The T&M billing rate for a project manager is $124.56/hr regular time, $186.84/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas reinforcement?<|end|>
+<|assistant|>$231.79/LF for 8" IHP gas reinforcement at South Jordan Reinforcement (2022). 4,650 LF, total $1,077,809. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a backhoe operator?<|end|>
+<|assistant|>The T&M billing rate for a backhoe operator is $63.57/hr regular time, $95.36/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the North Ogden IHP Replacement bid?<|end|>
+<|assistant|>The North Ogden IHP Replacement project (400 East, North Ogden, Utah, 2021) was a IHP gas replacement job. Tempest bid $992,747.50 total ($283.64/LF) for 3,500 LF of 8". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a trencher/plow operator?<|end|>
+<|assistant|>The T&M billing rate for a trencher/plow operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a cat 938g 2.5 cy rubber tired loader?<|end|>
+<|assistant|>$61.88/hr is the T&M rate for a cat 938g 2.5 cy rubber tired loader.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What was the prv electrical line item on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, PRV Electrical was bid at $374,070 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per LF did we bid for import pipe trench fill?<|end|>
+<|assistant|>Tempest used $9.70/LF for import pipe trench fill on the Herriman City job. Total: $130,232.20 for 13,426 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas replacement?<|end|>
+<|assistant|>On the West Temple Belt Line Replacement project (Salt Lake City, Utah, 2021), Tempest bid $125.46/LF for 8,500 LF of 8" IHP gas replacement. Total: $1,066,408.45. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a water truck 2000 gallon cost per hour on T&M?<|end|>
+<|assistant|>The Water Truck 2000 Gallon bills at $50.21/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 1.25" gas line work?<|end|>
+<|assistant|>$16.95/LF for 1.25" private gas line at Kilgore Private Gas Line (2021). 600 LF, total $10,171. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for install pressure reducing valve (prv) on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Install Pressure Reducing Valve (PRV) was bid at $20,585/EA (2 EA x $20,585 = $41,170).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did Import Pipe Zone Backfill cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), Import Pipe Zone Backfill was $6.30/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a welding/fusing truck cost per hour on T&M?<|end|>
+<|assistant|>The Welding/Fusing Truck bills at $44.37/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas reinforcement?<|end|>
+<|assistant|>On the American Fork Reinforcement project (American Fork, Utah, 2021), Tempest bid $63.12/LF for 4,000 LF of 8" IHP gas reinforcement. Total: $252,476.88. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a trencher/plow operator?<|end|>
+<|assistant|>The T&M billing rate for a trencher/plow operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Orem IHP Replacement job?<|end|>
+<|assistant|>The Orem IHP Replacement project (Orem, Utah, 2022) was a IHP gas replacement job. Tempest bid $613,781 total ($269.79/LF) for 2,275 LF of 2". Not awarded (bid submitted). Fugal awarded, they underbid<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did 8" PVC C900 Pipe cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), 8" PVC C900 Pipe was $46/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a sideboom operator on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a sideboom operator is $63.57/hr regular time, $95.36/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3/8" natural sand cost?<|end|>
+<|assistant|>$6.65/ton for 3/8" natural sand at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas replacement?<|end|>
+<|assistant|>$283.64/LF for 8" IHP gas replacement at North Ogden IHP Replacement (2021). 3,500 LF, total $992,747.50. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the South Jordan Reinforcement bid?<|end|>
+<|assistant|>The South Jordan Reinforcement project (South Jordan, Utah, 2022) was a IHP gas reinforcement job. Tempest bid $1,077,809 total ($231.79/LF) for 4,650 LF of 8". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Western Replacements Bid Package project.<|end|>
+<|assistant|>The Western Replacements Bid Package project (Midvale, Utah, 2021) was a IHP gas replacement job. Tempest bid $1,091,985.40 total ($177.93/LF) for 6,137 LF of 2". Awarded to tempest. 5500 LF of 2" main and 100+ service replacements in Midvale<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Springville UDOT Reinforcement job?<|end|>
+<|assistant|>The Springville UDOT Reinforcement project (Springville, Utah, 2023) was a IHP gas reinforcement job. Tempest bid $984,002.40 total ($244.47/LF) for 4,025 LF of 8". Not awarded (bid submitted). Lost by under $100K, came in 2nd to Fugal. Included 360 LF of guided auger bore 16"<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a dump truck?<|end|>
+<|assistant|>$56.05/hr is the T&M rate for a dump truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Midvale IHP Relocation job?<|end|>
+<|assistant|>The Midvale IHP Relocation project (Midvale, Utah, 2021) was a IHP gas relocation job. Tempest bid $507,658.60 total ($168.38/LF) for 3,015 LF of 6". Not awarded (bid submitted). 2% off from winning bid (Dominion)<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 6" relocation cost per foot in Utah?<|end|>
+<|assistant|>$191.10/LF for 6" IHP gas relocation at US-89 Relocation (2021). 8,325 LF, total $1,590,894.75. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 1" crushed rock?<|end|>
+<|assistant|>$19.40/ton for 1" crushed rock at Tempest rates from SPC's Lehi West location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a john deere 200 excavator (mid) cost per hour on T&M?<|end|>
+<|assistant|>$82.85/hr is the T&M rate for a john deere 200 excavator (mid).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 2" IHP gas replacement?<|end|>
+<|assistant|>On the Western Replacements Bid Package project (Midvale, Utah, 2021), Tempest bid $177.93/LF for 6,137 LF of 2" IHP gas replacement. Total: $1,091,985.40. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 2" IHP gas replacement?<|end|>
+<|assistant|>On the Millcreek IHP Replacement project (Salt Lake City, Utah, 2021), Tempest bid $218.67/LF for 3,390 LF of 2" IHP gas replacement. Total: $741,277.90. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for 8" gate valve (class 250)?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 8" Gate Valve (Class 250) was bid at $4,163/EA (43 EA x $4,163 = $179,009).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the West Davis UDOT Relocation bid?<|end|>
+<|assistant|>The West Davis UDOT Relocation project (Syracuse, Utah, 2021) was a IHP gas relocation job. Tempest bid $1,758,819 total ($322.25/LF) for 5,458 LF of 6". Awarded to tempest. UDOT Relocation project<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>How much is three man crew with backhoe (t&m) on a Southwest Gas job?<|end|>
+<|assistant|>Based on Southwest Gas T&M, Three man crew with backhoe (T&M) runs $3,500/DAY.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per SY did we bid for remove & replace sidewalk (6" thick)?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Sidewalk (6" Thick) was bid at $195/SY (130 SY x $195 = $25,350).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Sheeplane Reinforcement job?<|end|>
+<|assistant|>The Sheeplane Reinforcement project (Grantsville, Utah, 2022) was a IHP gas reinforcement job. Tempest bid $1,556,779 total ($123.55/LF) for 12,600 LF of 8". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a transport truck driver?<|end|>
+<|assistant|>The T&M billing rate for a transport truck driver is $58.87/hr regular time, $88.30/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a air compressor 185 cfm?<|end|>
+<|assistant|>The Air Compressor 185 CFM bills at $18.70/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 3/4" crushed rock?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3/4" crushed rock is $17.80/ton from the Keigley, Genola quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the WVC IHP Replacement project.<|end|>
+<|assistant|>The WVC IHP Replacement project (Bannock Drive, West Valley, Utah, 2021) was a IHP gas replacement job. Tempest bid $679,891.55 total ($137.21/LF) for 4,955 LF of 2". Awarded to tempest. 103 service replacements, 2 test and ties, rocky - lost money<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a directional bore machine operator?<|end|>
+<|assistant|>On T&M work, a directional bore machine operator bills at $68.28 per hour ($102.43/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What was the remove & replace landscaping line item on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Landscaping was bid at $20,476 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for 3" minus borrow from SPC?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3" minus borrow is $7.35/ton from the Grantsville quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 2" replacement cost per foot in Utah?<|end|>
+<|assistant|>$269.79/LF for 2" IHP gas replacement at Orem IHP Replacement (2022). 2,275 LF, total $613,781. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 3/4" crushed rock?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3/4" crushed rock is $19.40/ton from the Lehi West quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a asphalt roller?<|end|>
+<|assistant|>The Asphalt Roller bills at $31.50/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did 10" PVC C900 Pipe cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), 10" PVC C900 Pipe was $184/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1" crushed rock cost?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 1" crushed rock is $19.55/ton from the Beck Street, Salt Lake City quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a pickup truck?<|end|>
+<|assistant|>The Pickup Truck bills at $19.55/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>How many linear feet per day can a Cat 330 Excavator install?<|end|>
+<|assistant|>A Cat 330 Excavator produces approximately 170.5 LF/day on an 8-hour day, or 232.5 LF/day on a 10-hour day for standard utility pipe work. Net rate: 31 LF/hr (limited by excavating). This assumes hard soil conditions, roadway work with shoring, and utility congestion.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>How much is mill and overlay rubberized asphalt on a Southwest Gas job?<|end|>
+<|assistant|>$8/SQ.YD for mill and overlay rubberized asphalt per Southwest Gas estimate.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a loader operator?<|end|>
+<|assistant|>The T&M billing rate for a loader operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 2" IHP gas replacement?<|end|>
+<|assistant|>On the White Mountain Mall Replacement project (Rock Springs, Wyoming, 2021), Tempest bid $88.12/LF for 13,200 LF of 2" IHP gas replacement. Total: $1,163,184.25. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 10" site utilities (sewer, waterline, storm drain)?<|end|>
+<|assistant|>$146.45/LF for 10" site utilities (sewer, waterline, storm drain) at Morgan Asphalt Lakeside Development (2021). 4,570 LF, total $669,293.15. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for water mainline hot tap connection?<|end|>
+<|assistant|>Tempest used $14,501/EA for water mainline hot tap connection on the Herriman City job. Total: $14,501 for 1 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat it28 2.5 cy rubber tired loader?<|end|>
+<|assistant|>The Cat IT28 2.5 cy Rubber Tired Loader bills at $56.05/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>How much is slurry seal / microseal application on a Southwest Gas job?<|end|>
+<|assistant|>Based on Southwest Gas contract, Slurry seal / MicroSeal application runs $1.25/SQ.YD.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a fuser?<|end|>
+<|assistant|>The T&M billing rate for a fuser is $51.85/hr regular time, $77.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Harrison Blvd IHP Relocation project.<|end|>
+<|assistant|>The Harrison Blvd IHP Relocation project (Ogden, Utah, 2021) was a IHP gas relocation job. Tempest bid $276,994.30 total ($227.98/LF) for 1,215 LF of 8". Awarded to tempest. Relocation per city project<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a cat 561 pipelayer cost per hour on T&M?<|end|>
+<|assistant|>The Cat 561 Pipelayer bills at $67.72/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a dump truck driver?<|end|>
+<|assistant|>On T&M work, a dump truck driver bills at $49.45 per hour ($74.17/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 10" HDPE HDD bore?<|end|>
+<|assistant|>On the Koch Mechanical Bore project (800 W State St, Farmington, Utah, 2021), Tempest bid $151.20/LF for 30 LF of 10" HDPE HDD bore. Total: $4,536. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does as-built / foms data entry cost?<|end|>
+<|assistant|>$36,000/EA for as-built / foms data entry per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>How many linear feet per day can a Cat 308 Mini Excavator install?<|end|>
+<|assistant|>For Cat 308 Mini Excavator: 82.5 LF/8-hr day or 112.5 LF/10-hr day. Limiting factor is excavating at 15 LF/hr. Conditions: hard soil, roadway, shoring required, utility conflicts.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 1" service meter box & setter on the Herriman City job?<|end|>
+<|assistant|>Tempest used $2,298/EA for 1" service meter box & setter on the Herriman City job. Total: $236,694 for 103 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for 10" gate valve (class 250) on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 10" Gate Valve (Class 250) was bid at $5,748/EA (12 EA x $5,748 = $68,976).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Kilgore Private Gas Line project.<|end|>
+<|assistant|>The Kilgore Private Gas Line project (5400 S Mountain View Corridor, South Jordan, Utah, 2021) was a private gas line job. Tempest bid $10,171 total ($16.95/LF) for 600 LF of 1.25". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does 2" pe open trench under asphalt cost?<|end|>
+<|assistant|>$8/FT for 2" pe open trench under asphalt per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Monterey Circle IHP Replacement project.<|end|>
+<|assistant|>The Monterey Circle IHP Replacement project (Cottonwood Heights, Utah, 2022) was a IHP gas replacement job. Tempest bid $770,382.50 total ($217.01/LF) for 3,550 LF of 2". Awarded to tempest. Rocky project, lost money<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a project manager?<|end|>
+<|assistant|>The T&M billing rate for a project manager is $124.56/hr regular time, $186.84/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a directional boring machine jt920 w/truck?<|end|>
+<|assistant|>$155.22/hr is the T&M rate for a directional boring machine jt920 w/truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual production rates.<|end|>
+<|user|>How do different excavators compare for production on gas line work?<|end|>
+<|assistant|>Based on Tempest's production rate calculator for standard utility pipe work (hard soil, roadway, shoring required):
+- Case 580 backhoe: 33 LF/8hr day (limited by 6 LF/hr excavating)
+- Cat 308 mini: 82 LF/8hr day (15 LF/hr net)
+- Cat 315: 115 LF/8hr day (21 LF/hr net)
+- Cat 320: 121 LF/8hr day (22 LF/hr net)
+- Cat 330: 170 LF/8hr day (31 LF/hr net)
+The Case 580 is much slower -- use it only for small service work. Cat 315/320 are the standard for 2-8 inch utility mains.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a foreman?<|end|>
+<|assistant|>The T&M billing rate for a foreman is $67.80/hr regular time, $101.70/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for commercial road base from SPC?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, commercial road base is $7.20/ton from the Grantsville quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a dump truck driver on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a dump truck driver is $49.45/hr regular time, $74.17/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove trench asphalt (4" thick) on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove Trench Asphalt (4" Thick) was bid at $18.50/SY (3,773 SY x $18.50 = $69,800.50).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the West Temple Belt Line Replacement bid?<|end|>
+<|assistant|>The West Temple Belt Line Replacement project (Salt Lake City, Utah, 2021) was a IHP gas replacement job. Tempest bid $1,066,408.45 total ($125.46/LF) for 8,500 LF of 8". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the 6200 S UDOT Relocation job?<|end|>
+<|assistant|>The 6200 S UDOT Relocation project (Salt Lake City, Utah, 2022) was a IHP gas relocation job. Tempest bid $1,224,906.75 total ($423.11/LF) for 2,895 LF of 6". Not awarded (bid submitted). Awarded to Primoris who underbid<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a loader operator?<|end|>
+<|assistant|>The T&M billing rate for a loader operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' won projects and bid history.<|end|>
+<|user|>Tell me about the Herriman City Old Town Waterline Replacement project.<|end|>
+<|assistant|>The Herriman City Old Town Waterline Replacement was a waterline replacement project awarded to Tempest Enterprises by Herriman City in 2025. Contract value: $3,551,512. Scope: 13,196 LF of 8-inch PVC C900 waterline replacement with service laterals, valves, and hydrants. Location: Herriman, Utah.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Ogden Replacements Bid Package project.<|end|>
+<|assistant|>The Ogden Replacements Bid Package project (Ogden/Clearfield/Uintah, Utah, 2021) was a IHP gas replacement job. Tempest bid $436,112.75 total ($117.08/LF) for 3,725 LF of 4". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove existing water valves on the Herriman City job?<|end|>
+<|assistant|>Tempest used $1,416/EA for remove existing water valves on the Herriman City job. Total: $56,640 for 40 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1" crushed rock cost?<|end|>
+<|assistant|>$16.35/ton for 1" crushed rock at Tempest rates from SPC's Grantsville location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for cut, cap, & abandon existing waterline on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Cut, Cap, & Abandon Existing Waterline was bid at $2,202/EA (18 EA x $2,202 = $39,636).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for 16" butterfly valve (class 250) on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 16" Butterfly Valve (Class 250) was bid at $13,062/EA (6 EA x $13,062 = $78,372).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the US-89 Relocation project.<|end|>
+<|assistant|>The US-89 Relocation project (Farmington, Utah, 2021) was a IHP gas relocation job. Tempest bid $1,590,894.75 total ($191.10/LF) for 8,325 LF of 6". Awarded to tempest. 1800 LF of 12" HDD crossing US-89, relocation as part of $250M UDOT highway rebuild<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Morgan Asphalt Lakeside Development project.<|end|>
+<|assistant|>The Morgan Asphalt Lakeside Development project (Jordanelle, Utah, 2021) was a site utilities (sewer, waterline, storm drain) job. Tempest bid $669,293.15 total ($146.45/LF) for 4,570 LF of 10". Not awarded (bid submitted). 3" LP sewer, 10" HDPE waterline, 18" ADS storm drain; excluded concrete materials<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for 1-1/2" crushed rock from SPC?<|end|>
+<|assistant|>$19.55/ton for 1-1/2" crushed rock at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much did Tempest bid for quality control & testing on the Herriman City project?<|end|>
+<|assistant|>The Quality Control & Testing line item on the Herriman City job was $35,000 LS.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid history.<|end|>
+<|user|>What's a typical price range for IHP gas line work per foot?<|end|>
+<|assistant|>Based on Tempest's historical bids, IHP gas line work typically runs $34.92-$322.25/LF, with an average around $174.05/LF. Factors like pipe size, soil conditions, urban vs. rural, and UDOT involvement significantly affect price. Rocky soil and UDOT relocations push toward the higher end. Simple open-field reinforcements can be as low as $34.92/LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What was the mobilization line item on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Mobilization was bid at $80,000 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a laborer?<|end|>
+<|assistant|>The T&M billing rate for a laborer is $47.90/hr regular time, $71.85/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a welder?<|end|>
+<|assistant|>The T&M billing rate for a welder is $68.28/hr regular time, $102.43/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Herriman Highway Reinforcement project.<|end|>
+<|assistant|>The Herriman Highway Reinforcement project (Herriman, Utah, 2021) was a IHP gas reinforcement job. Tempest bid $1,819,570.30 total ($223.81/LF) for 8,130 LF of 6". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the White Mountain Mall Replacement job?<|end|>
+<|assistant|>The White Mountain Mall Replacement project (Rock Springs, Wyoming, 2021) was a IHP gas replacement job. Tempest bid $1,163,184.25 total ($88.12/LF) for 13,200 LF of 2". Awarded to tempest. Only 2400 LF underground, rest above ground IPS by third party<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 6" gas line work?<|end|>
+<|assistant|>On the Herriman Highway Reinforcement project (Herriman, Utah, 2021), Tempest bid $223.81/LF for 8,130 LF of 6" IHP gas reinforcement. Total: $1,819,570.30. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 6" IHP gas relocation?<|end|>
+<|assistant|>$322.25/LF for 6" IHP gas relocation at West Davis UDOT Relocation (2021). 5,458 LF, total $1,758,819. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 8" gas line work?<|end|>
+<|assistant|>On the Sheeplane Reinforcement project (Grantsville, Utah, 2022), Tempest bid $123.55/LF for 12,600 LF of 8" IHP gas reinforcement. Total: $1,556,779. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 2" relocation cost per foot in Utah?<|end|>
+<|assistant|>On the American Fork UDOT Relocation project (American Fork, Utah, 2021), Tempest bid $128.47/LF for 2,725 LF of 2" IHP gas relocation. Total: $350,072.85. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a directional bore machine operator?<|end|>
+<|assistant|>The T&M billing rate for a directional bore machine operator is $68.28/hr regular time, $102.43/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove & replace curb & gutter on the Herriman City job?<|end|>
+<|assistant|>Tempest used $61.50/LF for remove & replace curb & gutter on the Herriman City job. Total: $12,423 for 202 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 10" pvc c900 pipe on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 10" PVC C900 Pipe was bid at $184/LF (230 LF x $184 = $42,320).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does 2" pe directional bore under paved surface cost?<|end|>
+<|assistant|>Based on Southwest Gas contract, 2" PE directional bore under paved surface runs $15/FT.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a air compressor 375 cfm?<|end|>
+<|assistant|>The Air Compressor 375 CFM bills at $44.37/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 2" minus embankment cost?<|end|>
+<|assistant|>$5.55/ton for 2" minus embankment at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a butt fusion machine 6"-8"?<|end|>
+<|assistant|>The Butt Fusion Machine 6"-8" bills at $36.78/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a butt fusion machine 4"?<|end|>
+<|assistant|>$18.70/hr is the T&M rate for a butt fusion machine 4".<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3/8" natural sand cost?<|end|>
+<|assistant|>$5.30/ton for 3/8" natural sand at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove & replace fire hydrant assembly on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Fire Hydrant Assembly was bid at $10,844/EA (20 EA x $10,844 = $216,880).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the American Fork Reinforcement project.<|end|>
+<|assistant|>The American Fork Reinforcement project (American Fork, Utah, 2021) was a IHP gas reinforcement job. Tempest bid $252,476.88 total ($63.12/LF) for 4,000 LF of 8". Awarded to tempest. Main reinforcement single sourced<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a asphalt saw w/truck?<|end|>
+<|assistant|>$61.88/hr is the T&M rate for a asphalt saw w/truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a butt fusion machine 10"-18"?<|end|>
+<|assistant|>The Butt Fusion Machine 10"-18" bills at $62.45/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 2" gas line work?<|end|>
+<|assistant|>On the WVC IHP Replacement project (Bannock Drive, West Valley, Utah, 2021), Tempest bid $137.21/LF for 4,955 LF of 2" IHP gas replacement. Total: $679,891.55. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>What's the LF/day production for a Cat 315 Excavator on utility work?<|end|>
+<|assistant|>For Cat 315 Excavator: 115.5 LF/8-hr day or 157.5 LF/10-hr day. Limiting factor is excavating at 21 LF/hr. Conditions: hard soil, roadway, shoring required, utility conflicts.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for water line loop at utility crossing?<|end|>
+<|assistant|>Tempest used $9,232/EA for water line loop at utility crossing on the Herriman City job. Total: $258,496 for 28 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a welder's helper on T&M work?<|end|>
+<|assistant|>On T&M work, a welder's helper bills at $51.85 per hour ($77.78/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a rock hammer (attachment) cost per hour on T&M?<|end|>
+<|assistant|>$60.69/hr is the T&M rate for a rock hammer (attachment).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much did Tempest bid for traffic control on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Traffic Control was bid at $19,866 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1-1/2" state spec road base cost?<|end|>
+<|assistant|>$9.55/ton for 1-1/2" state spec road base at Tempest rates from SPC's Lehi West location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 3/4" APWA spec road base?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3/4" APWA spec road base is $20.50/ton from the Beck Street, Salt Lake City quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 6" gate valve (class 250) on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 6" Gate Valve (Class 250) was bid at $3,261/EA (3 EA x $3,261 = $9,783).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does commercial road base cost?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, commercial road base is $8.30/ton from the Beck Street, Salt Lake City quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a welder on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a welder is $68.28/hr regular time, $102.43/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What's the unit price for 1" pe directional bore improved landscape?<|end|>
+<|assistant|>$12/FT for 1" pe directional bore improved landscape per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a cat d4 dozer w/sideboom?<|end|>
+<|assistant|>$62.45/hr is the T&M rate for a cat d4 dozer w/sideboom.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a compactor plate (attachment)?<|end|>
+<|assistant|>$30.37/hr is the T&M rate for a compactor plate (attachment).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a dump truck with pup?<|end|>
+<|assistant|>$74.69/hr is the T&M rate for a dump truck with pup.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a john deere 60d mini excavator?<|end|>
+<|assistant|>$37.34/hr is the T&M rate for a john deere 60d mini excavator.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the Kilby Road Irrigation Waterline bid?<|end|>
+<|assistant|>The Kilby Road Irrigation Waterline project (Park City, Utah, 2021) was a waterline job. Tempest bid $316,466.37 total ($92.72/LF) for 3,413 LF of 8". Not awarded (bid submitted). Winning bid was $84.68/LF<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What's the unit price for 2" pe open trench under concrete?<|end|>
+<|assistant|>$12/FT for 2" pe open trench under concrete per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 6" relocation cost per foot in Utah?<|end|>
+<|assistant|>On the Midvale IHP Relocation project (Midvale, Utah, 2021), Tempest bid $168.38/LF for 3,015 LF of 6" IHP gas relocation. Total: $507,658.60. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for fire hydrant laterals on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Fire Hydrant Laterals was bid at $33/LF (500 LF x $33 = $16,500).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a welder's helper?<|end|>
+<|assistant|>On T&M work, a welder's helper bills at $51.85 per hour ($77.78/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 1-1/2" state spec road base?<|end|>
+<|assistant|>$9.90/ton for 1-1/2" state spec road base at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a crew truck?<|end|>
+<|assistant|>$23.35/hr is the T&M rate for a crew truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3" minus borrow cost?<|end|>
+<|assistant|>$9.45/ton for 3" minus borrow at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a jumping jack compactor cost per hour on T&M?<|end|>
+<|assistant|>$18.70/hr is the T&M rate for a jumping jack compactor.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 1" service lateral on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 1" Service Lateral was bid at $42/LF (3,360 LF x $42 = $141,120).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for asphalt millings (RAP)?<|end|>
+<|assistant|>$16.95/ton for asphalt millings (RAP) at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 2" service lateral on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 2" Service Lateral was bid at $52/LF (160 LF x $52 = $8,320).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for water mainline tie-ins on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Water Mainline Tie-Ins was bid at $6,661/EA (30 EA x $6,661 = $199,830).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a meter setter?<|end|>
+<|assistant|>The T&M billing rate for a meter setter is $51.80/hr regular time, $77.70/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a mechanic/parts chaser?<|end|>
+<|assistant|>On T&M work, a mechanic/parts chaser bills at $57.69 per hour ($86.53/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does traffic control (voucher) cost?<|end|>
+<|assistant|>Based on Southwest Gas contract, Traffic control (voucher) runs $48,000/MOB.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat 315 / jd 120 excavator (small-mid)?<|end|>
+<|assistant|>The Cat 315 / JD 120 Excavator (Small-Mid) bills at $74.69/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Shepard Lane UDOT Relocation job?<|end|>
+<|assistant|>The Shepard Lane UDOT Relocation project (Utah, 2023) was a IHP gas relocation job. Total bid: $231,526. Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 6" relocation cost per foot in Utah?<|end|>
+<|assistant|>$423.11/LF for 6" IHP gas relocation at 6200 S UDOT Relocation (2022). 2,895 LF, total $1,224,906.75. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for 2" service meter box & setter?<|end|>
+<|assistant|>Tempest used $6,948/EA for 2" service meter box & setter on the Herriman City job. Total: $13,896 for 2 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a fuser?<|end|>
+<|assistant|>On T&M work, a fuser bills at $51.85 per hour ($77.78/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Dyno Nobel Gas Line project.<|end|>
+<|assistant|>The Dyno Nobel Gas Line project (Tooele, Utah, 2023) was a IHP gas line job. Tempest bid $113,144 total ($34.92/LF) for 3,240 LF of 4". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a case 580 / jd 310 rubber tired backhoe?<|end|>
+<|assistant|>$37.34/hr is the T&M rate for a case 580 / jd 310 rubber tired backhoe.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for asphalt millings (RAP)?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, asphalt millings (RAP) is $18.50/ton from the Beck Street, Salt Lake City quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a laborer?<|end|>
+<|assistant|>The T&M billing rate for a laborer is $47.90/hr regular time, $71.85/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 1-1/2" state spec road base?<|end|>
+<|assistant|>$10.10/ton for 1-1/2" state spec road base at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a transport truck driver?<|end|>
+<|assistant|>The T&M billing rate for a transport truck driver is $58.87/hr regular time, $88.30/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a meter setter?<|end|>
+<|assistant|>On T&M work, a meter setter bills at $51.80 per hour ($77.70/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Salem Arrowhead Reinforcement project.<|end|>
+<|assistant|>The Salem Arrowhead Reinforcement project (Springville, Utah, 2022) was a IHP gas reinforcement job. Tempest bid $783,563 total ($106.90/LF) for 7,330 LF of 6". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for subsurface investigation on the Herriman City project?<|end|>
+<|assistant|>Tempest used $130/HR for subsurface investigation on the Herriman City job. Total: $10,400 for 80 HR.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>How many linear feet per day can a Case 580 / JD 310 Rubber Tired Backhoe install?<|end|>
+<|assistant|>For Case 580 / JD 310 Rubber Tired Backhoe: 33 LF/8-hr day or 45 LF/10-hr day. Limiting factor is excavating at 6 LF/hr. Conditions: hard soil, roadway, shoring required, utility conflicts.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for P-159 (pipe bedding)?<|end|>
+<|assistant|>$8.60/ton for P-159 (pipe bedding) at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat 325 / jd 270 excavator (large)?<|end|>
+<|assistant|>The Cat 325 / JD 270 Excavator (Large) bills at $93.39/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 4" gas line work?<|end|>
+<|assistant|>$34.92/LF for 4" IHP gas line at Dyno Nobel Gas Line (2023). 3,240 LF, total $113,144. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for commercial road base?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, commercial road base is $7.60/ton from the Keigley, Genola quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 8" relocation cost per foot in Utah?<|end|>
+<|assistant|>On the Harrison Blvd IHP Relocation project (Ogden, Utah, 2021), Tempest bid $227.98/LF for 1,215 LF of 8" IHP gas relocation. Total: $276,994.30. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1-1/2" state spec road base cost?<|end|>
+<|assistant|>$8.55/ton for 1-1/2" state spec road base at Tempest rates from SPC's Grantsville location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a 24"-36" asphalt zipper?<|end|>
+<|assistant|>$74.69/hr is the T&M rate for a 24"-36" asphalt zipper.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 6" gas line work?<|end|>
+<|assistant|>On the Salem Arrowhead Reinforcement project (Springville, Utah, 2022), Tempest bid $106.90/LF for 7,330 LF of 6" IHP gas reinforcement. Total: $783,563. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a mechanic/parts chaser on T&M work?<|end|>
+<|assistant|>On T&M work, a mechanic/parts chaser bills at $57.69 per hour ($86.53/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove & replace gravel shoulder on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Gravel Shoulder was bid at $8.50/SY (11,991 SY x $8.50 = $101,923.50).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the American Fork UDOT Relocation job?<|end|>
+<|assistant|>The American Fork UDOT Relocation project (American Fork, Utah, 2021) was a IHP gas relocation job. Tempest bid $350,072.85 total ($128.47/LF) for 2,725 LF of 2". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 4" line cost per foot in Utah?<|end|>
+<|assistant|>$174.46/LF for 4" IHP gas line at Kilby Road IHP (2022). 2,400 LF, total $418,710. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per LF did we bid for 8" pvc c900 pipe?<|end|>
+<|assistant|>Tempest used $46/LF for 8" pvc c900 pipe on the Herriman City job. Total: $607,016 for 13,196 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for 1" crushed rock from SPC?<|end|>
+<|assistant|>$17.80/ton for 1" crushed rock at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a directional boring machine jt4020 w/truck?<|end|>
+<|assistant|>$246.23/hr is the T&M rate for a directional boring machine jt4020 w/truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>What's the LF/day production for a Cat 320 Excavator on utility work?<|end|>
+<|assistant|>A Cat 320 Excavator produces approximately 121 LF/day on an 8-hour day, or 165 LF/day on a 10-hour day for standard utility pipe work. Net rate: 22 LF/hr (limited by excavating). This assumes hard soil conditions, roadway work with shoring, and utility congestion.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a backhoe operator on T&M work?<|end|>
+<|assistant|>On T&M work, a backhoe operator bills at $63.57 per hour ($95.36/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for replace asphalt t-patch (4" thick) on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Replace Asphalt T-Patch (4" Thick) was bid at $284/TON (1,053 TON x $284 = $299,052).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a superintendent?<|end|>
+<|assistant|>The T&M billing rate for a superintendent is $79.96/hr regular time, $119.95/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Millcreek IHP Replacement project.<|end|>
+<|assistant|>The Millcreek IHP Replacement project (Salt Lake City, Utah, 2021) was a IHP gas replacement job. Tempest bid $741,277.90 total ($218.67/LF) for 3,390 LF of 2". Awarded to tempest. Extremely rocky conditions, lots of difficult services<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat 320 / cat 225c excavator (mid-large)?<|end|>
+<|assistant|>$87.55/hr is the T&M rate for a cat 320 / cat 225c excavator (mid-large).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for untreated base course (8" thick) on the Herriman City job?<|end|>
+<|assistant|>Tempest used $26/TON for untreated base course (8" thick) on the Herriman City job. Total: $45,058 for 1,733 TON.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for import pipe zone backfill on the Herriman City project?<|end|>
+<|assistant|>Tempest used $6.30/LF for import pipe zone backfill on the Herriman City job. Total: $84,583.80 for 13,426 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a sideboom operator?<|end|>
+<|assistant|>On T&M work, a sideboom operator bills at $63.57 per hour ($95.36/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3" minus borrow cost?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3" minus borrow is $9.25/ton from the Lehi West quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a rammax compactor?<|end|>
+<|assistant|>The Rammax Compactor bills at $25.68/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the Koch Mechanical Bore bid?<|end|>
+<|assistant|>The Koch Mechanical Bore project (800 W State St, Farmington, Utah, 2021) was a HDD bore job. Tempest bid $4,536 total ($151.20/LF) for 30 LF of 10" HDPE. Awarded to tempest. 10" HDPE bore under the jail<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a flag person on T&M work?<|end|>
+<|assistant|>On T&M work, a flag person bills at $37 per hour ($55.50/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 8" waterline cost per foot in Utah?<|end|>
+<|assistant|>$92.72/LF for 8" waterline at Kilby Road Irrigation Waterline (2021). 3,413 LF, total $316,466.37. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat challenger sideboom?<|end|>
+<|assistant|>$62.45/hr is the T&M rate for a cat challenger sideboom.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 8" gas line work?<|end|>
+<|assistant|>$244.47/LF for 8" IHP gas reinforcement at Springville UDOT Reinforcement (2023). 4,025 LF, total $984,002.40. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did Import Pipe Trench Fill cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), Import Pipe Trench Fill was $9.70/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 2" replacement cost per foot in Utah?<|end|>
+<|assistant|>On the Monterey Circle IHP Replacement project (Cottonwood Heights, Utah, 2022), Tempest bid $217.01/LF for 3,550 LF of 2" IHP gas replacement. Total: $770,382.50. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a foreman?<|end|>
+<|assistant|>The T&M billing rate for a foreman is $67.80/hr regular time, $101.70/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Kilby Road IHP project.<|end|>
+<|assistant|>The Kilby Road IHP project (Park City, Utah, 2022) was a IHP gas line job. Tempest bid $418,710 total ($174.46/LF) for 2,400 LF of 4". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a flag person on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a flag person is $37/hr regular time, $55.50/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 4" IHP gas replacement?<|end|>
+<|assistant|>On the Ogden Replacements Bid Package project (Ogden/Clearfield/Uintah, Utah, 2021), Tempest bid $117.08/LF for 3,725 LF of 4" IHP gas replacement. Total: $436,112.75. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a superintendent on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a superintendent is $79.96/hr regular time, $119.95/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a project manager?<|end|>
+<|assistant|>The T&M billing rate for a project manager is $124.56/hr regular time, $186.84/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas reinforcement?<|end|>
+<|assistant|>$231.79/LF for 8" IHP gas reinforcement at South Jordan Reinforcement (2022). 4,650 LF, total $1,077,809. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a backhoe operator?<|end|>
+<|assistant|>The T&M billing rate for a backhoe operator is $63.57/hr regular time, $95.36/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the North Ogden IHP Replacement bid?<|end|>
+<|assistant|>The North Ogden IHP Replacement project (400 East, North Ogden, Utah, 2021) was a IHP gas replacement job. Tempest bid $992,747.50 total ($283.64/LF) for 3,500 LF of 8". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a trencher/plow operator?<|end|>
+<|assistant|>The T&M billing rate for a trencher/plow operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a cat 938g 2.5 cy rubber tired loader?<|end|>
+<|assistant|>$61.88/hr is the T&M rate for a cat 938g 2.5 cy rubber tired loader.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What was the prv electrical line item on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, PRV Electrical was bid at $374,070 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per LF did we bid for import pipe trench fill?<|end|>
+<|assistant|>Tempest used $9.70/LF for import pipe trench fill on the Herriman City job. Total: $130,232.20 for 13,426 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas replacement?<|end|>
+<|assistant|>On the West Temple Belt Line Replacement project (Salt Lake City, Utah, 2021), Tempest bid $125.46/LF for 8,500 LF of 8" IHP gas replacement. Total: $1,066,408.45. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a water truck 2000 gallon cost per hour on T&M?<|end|>
+<|assistant|>The Water Truck 2000 Gallon bills at $50.21/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 1.25" gas line work?<|end|>
+<|assistant|>$16.95/LF for 1.25" private gas line at Kilgore Private Gas Line (2021). 600 LF, total $10,171. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for install pressure reducing valve (prv) on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Install Pressure Reducing Valve (PRV) was bid at $20,585/EA (2 EA x $20,585 = $41,170).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did Import Pipe Zone Backfill cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), Import Pipe Zone Backfill was $6.30/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a welding/fusing truck cost per hour on T&M?<|end|>
+<|assistant|>The Welding/Fusing Truck bills at $44.37/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas reinforcement?<|end|>
+<|assistant|>On the American Fork Reinforcement project (American Fork, Utah, 2021), Tempest bid $63.12/LF for 4,000 LF of 8" IHP gas reinforcement. Total: $252,476.88. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a trencher/plow operator?<|end|>
+<|assistant|>The T&M billing rate for a trencher/plow operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Orem IHP Replacement job?<|end|>
+<|assistant|>The Orem IHP Replacement project (Orem, Utah, 2022) was a IHP gas replacement job. Tempest bid $613,781 total ($269.79/LF) for 2,275 LF of 2". Not awarded (bid submitted). Fugal awarded, they underbid<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did 8" PVC C900 Pipe cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), 8" PVC C900 Pipe was $46/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a sideboom operator on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a sideboom operator is $63.57/hr regular time, $95.36/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3/8" natural sand cost?<|end|>
+<|assistant|>$6.65/ton for 3/8" natural sand at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 8" IHP gas replacement?<|end|>
+<|assistant|>$283.64/LF for 8" IHP gas replacement at North Ogden IHP Replacement (2021). 3,500 LF, total $992,747.50. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the South Jordan Reinforcement bid?<|end|>
+<|assistant|>The South Jordan Reinforcement project (South Jordan, Utah, 2022) was a IHP gas reinforcement job. Tempest bid $1,077,809 total ($231.79/LF) for 4,650 LF of 8". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Western Replacements Bid Package project.<|end|>
+<|assistant|>The Western Replacements Bid Package project (Midvale, Utah, 2021) was a IHP gas replacement job. Tempest bid $1,091,985.40 total ($177.93/LF) for 6,137 LF of 2". Awarded to tempest. 5500 LF of 2" main and 100+ service replacements in Midvale<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Springville UDOT Reinforcement job?<|end|>
+<|assistant|>The Springville UDOT Reinforcement project (Springville, Utah, 2023) was a IHP gas reinforcement job. Tempest bid $984,002.40 total ($244.47/LF) for 4,025 LF of 8". Not awarded (bid submitted). Lost by under $100K, came in 2nd to Fugal. Included 360 LF of guided auger bore 16"<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a dump truck?<|end|>
+<|assistant|>$56.05/hr is the T&M rate for a dump truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Midvale IHP Relocation job?<|end|>
+<|assistant|>The Midvale IHP Relocation project (Midvale, Utah, 2021) was a IHP gas relocation job. Tempest bid $507,658.60 total ($168.38/LF) for 3,015 LF of 6". Not awarded (bid submitted). 2% off from winning bid (Dominion)<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 6" relocation cost per foot in Utah?<|end|>
+<|assistant|>$191.10/LF for 6" IHP gas relocation at US-89 Relocation (2021). 8,325 LF, total $1,590,894.75. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 1" crushed rock?<|end|>
+<|assistant|>$19.40/ton for 1" crushed rock at Tempest rates from SPC's Lehi West location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a john deere 200 excavator (mid) cost per hour on T&M?<|end|>
+<|assistant|>$82.85/hr is the T&M rate for a john deere 200 excavator (mid).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 2" IHP gas replacement?<|end|>
+<|assistant|>On the Western Replacements Bid Package project (Midvale, Utah, 2021), Tempest bid $177.93/LF for 6,137 LF of 2" IHP gas replacement. Total: $1,091,985.40. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 2" IHP gas replacement?<|end|>
+<|assistant|>On the Millcreek IHP Replacement project (Salt Lake City, Utah, 2021), Tempest bid $218.67/LF for 3,390 LF of 2" IHP gas replacement. Total: $741,277.90. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for 8" gate valve (class 250)?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 8" Gate Valve (Class 250) was bid at $4,163/EA (43 EA x $4,163 = $179,009).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the West Davis UDOT Relocation bid?<|end|>
+<|assistant|>The West Davis UDOT Relocation project (Syracuse, Utah, 2021) was a IHP gas relocation job. Tempest bid $1,758,819 total ($322.25/LF) for 5,458 LF of 6". Awarded to tempest. UDOT Relocation project<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>How much is three man crew with backhoe (t&m) on a Southwest Gas job?<|end|>
+<|assistant|>Based on Southwest Gas T&M, Three man crew with backhoe (T&M) runs $3,500/DAY.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per SY did we bid for remove & replace sidewalk (6" thick)?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Sidewalk (6" Thick) was bid at $195/SY (130 SY x $195 = $25,350).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Sheeplane Reinforcement job?<|end|>
+<|assistant|>The Sheeplane Reinforcement project (Grantsville, Utah, 2022) was a IHP gas reinforcement job. Tempest bid $1,556,779 total ($123.55/LF) for 12,600 LF of 8". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a transport truck driver?<|end|>
+<|assistant|>The T&M billing rate for a transport truck driver is $58.87/hr regular time, $88.30/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a air compressor 185 cfm?<|end|>
+<|assistant|>The Air Compressor 185 CFM bills at $18.70/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 3/4" crushed rock?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3/4" crushed rock is $17.80/ton from the Keigley, Genola quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the WVC IHP Replacement project.<|end|>
+<|assistant|>The WVC IHP Replacement project (Bannock Drive, West Valley, Utah, 2021) was a IHP gas replacement job. Tempest bid $679,891.55 total ($137.21/LF) for 4,955 LF of 2". Awarded to tempest. 103 service replacements, 2 test and ties, rocky - lost money<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a directional bore machine operator?<|end|>
+<|assistant|>On T&M work, a directional bore machine operator bills at $68.28 per hour ($102.43/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What was the remove & replace landscaping line item on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Landscaping was bid at $20,476 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for 3" minus borrow from SPC?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3" minus borrow is $7.35/ton from the Grantsville quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 2" replacement cost per foot in Utah?<|end|>
+<|assistant|>$269.79/LF for 2" IHP gas replacement at Orem IHP Replacement (2022). 2,275 LF, total $613,781. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 3/4" crushed rock?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3/4" crushed rock is $19.40/ton from the Lehi West quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a asphalt roller?<|end|>
+<|assistant|>The Asphalt Roller bills at $31.50/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid prices.<|end|>
+<|user|>What did 10" PVC C900 Pipe cost per LF on a recent waterline job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement (Herriman City, 2025), 10" PVC C900 Pipe was $184/LF. That's a real Tempest bid unit price for a city waterline replacement project.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1" crushed rock cost?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 1" crushed rock is $19.55/ton from the Beck Street, Salt Lake City quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a pickup truck?<|end|>
+<|assistant|>The Pickup Truck bills at $19.55/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>How many linear feet per day can a Cat 330 Excavator install?<|end|>
+<|assistant|>A Cat 330 Excavator produces approximately 170.5 LF/day on an 8-hour day, or 232.5 LF/day on a 10-hour day for standard utility pipe work. Net rate: 31 LF/hr (limited by excavating). This assumes hard soil conditions, roadway work with shoring, and utility congestion.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>How much is mill and overlay rubberized asphalt on a Southwest Gas job?<|end|>
+<|assistant|>$8/SQ.YD for mill and overlay rubberized asphalt per Southwest Gas estimate.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a loader operator?<|end|>
+<|assistant|>The T&M billing rate for a loader operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 2" IHP gas replacement?<|end|>
+<|assistant|>On the White Mountain Mall Replacement project (Rock Springs, Wyoming, 2021), Tempest bid $88.12/LF for 13,200 LF of 2" IHP gas replacement. Total: $1,163,184.25. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 10" site utilities (sewer, waterline, storm drain)?<|end|>
+<|assistant|>$146.45/LF for 10" site utilities (sewer, waterline, storm drain) at Morgan Asphalt Lakeside Development (2021). 4,570 LF, total $669,293.15. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for water mainline hot tap connection?<|end|>
+<|assistant|>Tempest used $14,501/EA for water mainline hot tap connection on the Herriman City job. Total: $14,501 for 1 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat it28 2.5 cy rubber tired loader?<|end|>
+<|assistant|>The Cat IT28 2.5 cy Rubber Tired Loader bills at $56.05/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>How much is slurry seal / microseal application on a Southwest Gas job?<|end|>
+<|assistant|>Based on Southwest Gas contract, Slurry seal / MicroSeal application runs $1.25/SQ.YD.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a fuser?<|end|>
+<|assistant|>The T&M billing rate for a fuser is $51.85/hr regular time, $77.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Harrison Blvd IHP Relocation project.<|end|>
+<|assistant|>The Harrison Blvd IHP Relocation project (Ogden, Utah, 2021) was a IHP gas relocation job. Tempest bid $276,994.30 total ($227.98/LF) for 1,215 LF of 8". Awarded to tempest. Relocation per city project<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a cat 561 pipelayer cost per hour on T&M?<|end|>
+<|assistant|>The Cat 561 Pipelayer bills at $67.72/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a dump truck driver?<|end|>
+<|assistant|>On T&M work, a dump truck driver bills at $49.45 per hour ($74.17/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 10" HDPE HDD bore?<|end|>
+<|assistant|>On the Koch Mechanical Bore project (800 W State St, Farmington, Utah, 2021), Tempest bid $151.20/LF for 30 LF of 10" HDPE HDD bore. Total: $4,536. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does as-built / foms data entry cost?<|end|>
+<|assistant|>$36,000/EA for as-built / foms data entry per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>How many linear feet per day can a Cat 308 Mini Excavator install?<|end|>
+<|assistant|>For Cat 308 Mini Excavator: 82.5 LF/8-hr day or 112.5 LF/10-hr day. Limiting factor is excavating at 15 LF/hr. Conditions: hard soil, roadway, shoring required, utility conflicts.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 1" service meter box & setter on the Herriman City job?<|end|>
+<|assistant|>Tempest used $2,298/EA for 1" service meter box & setter on the Herriman City job. Total: $236,694 for 103 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for 10" gate valve (class 250) on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 10" Gate Valve (Class 250) was bid at $5,748/EA (12 EA x $5,748 = $68,976).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Kilgore Private Gas Line project.<|end|>
+<|assistant|>The Kilgore Private Gas Line project (5400 S Mountain View Corridor, South Jordan, Utah, 2021) was a private gas line job. Tempest bid $10,171 total ($16.95/LF) for 600 LF of 1.25". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does 2" pe open trench under asphalt cost?<|end|>
+<|assistant|>$8/FT for 2" pe open trench under asphalt per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Monterey Circle IHP Replacement project.<|end|>
+<|assistant|>The Monterey Circle IHP Replacement project (Cottonwood Heights, Utah, 2022) was a IHP gas replacement job. Tempest bid $770,382.50 total ($217.01/LF) for 3,550 LF of 2". Awarded to tempest. Rocky project, lost money<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a project manager?<|end|>
+<|assistant|>The T&M billing rate for a project manager is $124.56/hr regular time, $186.84/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a directional boring machine jt920 w/truck?<|end|>
+<|assistant|>$155.22/hr is the T&M rate for a directional boring machine jt920 w/truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual production rates.<|end|>
+<|user|>How do different excavators compare for production on gas line work?<|end|>
+<|assistant|>Based on Tempest's production rate calculator for standard utility pipe work (hard soil, roadway, shoring required):
+- Case 580 backhoe: 33 LF/8hr day (limited by 6 LF/hr excavating)
+- Cat 308 mini: 82 LF/8hr day (15 LF/hr net)
+- Cat 315: 115 LF/8hr day (21 LF/hr net)
+- Cat 320: 121 LF/8hr day (22 LF/hr net)
+- Cat 330: 170 LF/8hr day (31 LF/hr net)
+The Case 580 is much slower -- use it only for small service work. Cat 315/320 are the standard for 2-8 inch utility mains.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a foreman?<|end|>
+<|assistant|>The T&M billing rate for a foreman is $67.80/hr regular time, $101.70/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for commercial road base from SPC?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, commercial road base is $7.20/ton from the Grantsville quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a dump truck driver on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a dump truck driver is $49.45/hr regular time, $74.17/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove trench asphalt (4" thick) on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove Trench Asphalt (4" Thick) was bid at $18.50/SY (3,773 SY x $18.50 = $69,800.50).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the West Temple Belt Line Replacement bid?<|end|>
+<|assistant|>The West Temple Belt Line Replacement project (Salt Lake City, Utah, 2021) was a IHP gas replacement job. Tempest bid $1,066,408.45 total ($125.46/LF) for 8,500 LF of 8". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the 6200 S UDOT Relocation job?<|end|>
+<|assistant|>The 6200 S UDOT Relocation project (Salt Lake City, Utah, 2022) was a IHP gas relocation job. Tempest bid $1,224,906.75 total ($423.11/LF) for 2,895 LF of 6". Not awarded (bid submitted). Awarded to Primoris who underbid<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a loader operator?<|end|>
+<|assistant|>The T&M billing rate for a loader operator is $61.85/hr regular time, $92.78/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' won projects and bid history.<|end|>
+<|user|>Tell me about the Herriman City Old Town Waterline Replacement project.<|end|>
+<|assistant|>The Herriman City Old Town Waterline Replacement was a waterline replacement project awarded to Tempest Enterprises by Herriman City in 2025. Contract value: $3,551,512. Scope: 13,196 LF of 8-inch PVC C900 waterline replacement with service laterals, valves, and hydrants. Location: Herriman, Utah.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Ogden Replacements Bid Package project.<|end|>
+<|assistant|>The Ogden Replacements Bid Package project (Ogden/Clearfield/Uintah, Utah, 2021) was a IHP gas replacement job. Tempest bid $436,112.75 total ($117.08/LF) for 3,725 LF of 4". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove existing water valves on the Herriman City job?<|end|>
+<|assistant|>Tempest used $1,416/EA for remove existing water valves on the Herriman City job. Total: $56,640 for 40 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1" crushed rock cost?<|end|>
+<|assistant|>$16.35/ton for 1" crushed rock at Tempest rates from SPC's Grantsville location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for cut, cap, & abandon existing waterline on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Cut, Cap, & Abandon Existing Waterline was bid at $2,202/EA (18 EA x $2,202 = $39,636).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for 16" butterfly valve (class 250) on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 16" Butterfly Valve (Class 250) was bid at $13,062/EA (6 EA x $13,062 = $78,372).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the US-89 Relocation project.<|end|>
+<|assistant|>The US-89 Relocation project (Farmington, Utah, 2021) was a IHP gas relocation job. Tempest bid $1,590,894.75 total ($191.10/LF) for 8,325 LF of 6". Awarded to tempest. 1800 LF of 12" HDD crossing US-89, relocation as part of $250M UDOT highway rebuild<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Morgan Asphalt Lakeside Development project.<|end|>
+<|assistant|>The Morgan Asphalt Lakeside Development project (Jordanelle, Utah, 2021) was a site utilities (sewer, waterline, storm drain) job. Tempest bid $669,293.15 total ($146.45/LF) for 4,570 LF of 10". Not awarded (bid submitted). 3" LP sewer, 10" HDPE waterline, 18" ADS storm drain; excluded concrete materials<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What's the price per ton for 1-1/2" crushed rock from SPC?<|end|>
+<|assistant|>$19.55/ton for 1-1/2" crushed rock at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much did Tempest bid for quality control & testing on the Herriman City project?<|end|>
+<|assistant|>The Quality Control & Testing line item on the Herriman City job was $35,000 LS.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual bid history.<|end|>
+<|user|>What's a typical price range for IHP gas line work per foot?<|end|>
+<|assistant|>Based on Tempest's historical bids, IHP gas line work typically runs $34.92-$322.25/LF, with an average around $174.05/LF. Factors like pipe size, soil conditions, urban vs. rural, and UDOT involvement significantly affect price. Rocky soil and UDOT relocations push toward the higher end. Simple open-field reinforcements can be as low as $34.92/LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What was the mobilization line item on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Mobilization was bid at $80,000 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a laborer?<|end|>
+<|assistant|>The T&M billing rate for a laborer is $47.90/hr regular time, $71.85/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a welder?<|end|>
+<|assistant|>The T&M billing rate for a welder is $68.28/hr regular time, $102.43/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Herriman Highway Reinforcement project.<|end|>
+<|assistant|>The Herriman Highway Reinforcement project (Herriman, Utah, 2021) was a IHP gas reinforcement job. Tempest bid $1,819,570.30 total ($223.81/LF) for 8,130 LF of 6". Not awarded (bid submitted).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the White Mountain Mall Replacement job?<|end|>
+<|assistant|>The White Mountain Mall Replacement project (Rock Springs, Wyoming, 2021) was a IHP gas replacement job. Tempest bid $1,163,184.25 total ($88.12/LF) for 13,200 LF of 2". Awarded to tempest. Only 2400 LF underground, rest above ground IPS by third party<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 6" gas line work?<|end|>
+<|assistant|>On the Herriman Highway Reinforcement project (Herriman, Utah, 2021), Tempest bid $223.81/LF for 8,130 LF of 6" IHP gas reinforcement. Total: $1,819,570.30. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What's a realistic price per LF for 6" IHP gas relocation?<|end|>
+<|assistant|>$322.25/LF for 6" IHP gas relocation at West Davis UDOT Relocation (2021). 5,458 LF, total $1,758,819. Won.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 8" gas line work?<|end|>
+<|assistant|>On the Sheeplane Reinforcement project (Grantsville, Utah, 2022), Tempest bid $123.55/LF for 12,600 LF of 8" IHP gas reinforcement. Total: $1,556,779. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 2" relocation cost per foot in Utah?<|end|>
+<|assistant|>On the American Fork UDOT Relocation project (American Fork, Utah, 2021), Tempest bid $128.47/LF for 2,725 LF of 2" IHP gas relocation. Total: $350,072.85. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What's the billing rate for a directional bore machine operator?<|end|>
+<|assistant|>The T&M billing rate for a directional bore machine operator is $68.28/hr regular time, $102.43/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove & replace curb & gutter on the Herriman City job?<|end|>
+<|assistant|>Tempest used $61.50/LF for remove & replace curb & gutter on the Herriman City job. Total: $12,423 for 202 LF.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 10" pvc c900 pipe on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 10" PVC C900 Pipe was bid at $184/LF (230 LF x $184 = $42,320).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does 2" pe directional bore under paved surface cost?<|end|>
+<|assistant|>Based on Southwest Gas contract, 2" PE directional bore under paved surface runs $15/FT.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a air compressor 375 cfm?<|end|>
+<|assistant|>The Air Compressor 375 CFM bills at $44.37/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 2" minus embankment cost?<|end|>
+<|assistant|>$5.55/ton for 2" minus embankment at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a butt fusion machine 6"-8"?<|end|>
+<|assistant|>The Butt Fusion Machine 6"-8" bills at $36.78/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a butt fusion machine 4"?<|end|>
+<|assistant|>$18.70/hr is the T&M rate for a butt fusion machine 4".<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3/8" natural sand cost?<|end|>
+<|assistant|>$5.30/ton for 3/8" natural sand at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for remove & replace fire hydrant assembly on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Remove & Replace Fire Hydrant Assembly was bid at $10,844/EA (20 EA x $10,844 = $216,880).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the American Fork Reinforcement project.<|end|>
+<|assistant|>The American Fork Reinforcement project (American Fork, Utah, 2021) was a IHP gas reinforcement job. Tempest bid $252,476.88 total ($63.12/LF) for 4,000 LF of 8". Awarded to tempest. Main reinforcement single sourced<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a asphalt saw w/truck?<|end|>
+<|assistant|>$61.88/hr is the T&M rate for a asphalt saw w/truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a butt fusion machine 10"-18"?<|end|>
+<|assistant|>The Butt Fusion Machine 10"-18" bills at $62.45/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>How much did Tempest bid per foot for 2" gas line work?<|end|>
+<|assistant|>On the WVC IHP Replacement project (Bannock Drive, West Valley, Utah, 2021), Tempest bid $137.21/LF for 4,955 LF of 2" IHP gas replacement. Total: $679,891.55. Awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have real production rate data from Tempest's estimating calculator.<|end|>
+<|user|>What's the LF/day production for a Cat 315 Excavator on utility work?<|end|>
+<|assistant|>For Cat 315 Excavator: 115.5 LF/8-hr day or 157.5 LF/10-hr day. Limiting factor is excavating at 21 LF/hr. Conditions: hard soil, roadway, shoring required, utility conflicts.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for water line loop at utility crossing?<|end|>
+<|assistant|>Tempest used $9,232/EA for water line loop at utility crossing on the Herriman City job. Total: $258,496 for 28 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a welder's helper on T&M work?<|end|>
+<|assistant|>On T&M work, a welder's helper bills at $51.85 per hour ($77.78/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a rock hammer (attachment) cost per hour on T&M?<|end|>
+<|assistant|>$60.69/hr is the T&M rate for a rock hammer (attachment).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much did Tempest bid for traffic control on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Traffic Control was bid at $19,866 lump sum.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 1-1/2" state spec road base cost?<|end|>
+<|assistant|>$9.55/ton for 1-1/2" state spec road base at Tempest rates from SPC's Lehi West location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 3/4" APWA spec road base?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, 3/4" APWA spec road base is $20.50/ton from the Beck Street, Salt Lake City quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 6" gate valve (class 250) on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 6" Gate Valve (Class 250) was bid at $3,261/EA (3 EA x $3,261 = $9,783).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does commercial road base cost?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, commercial road base is $8.30/ton from the Beck Street, Salt Lake City quarry.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>How much does Tempest charge for a welder on T&M work?<|end|>
+<|assistant|>The T&M billing rate for a welder is $68.28/hr regular time, $102.43/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What's the unit price for 1" pe directional bore improved landscape?<|end|>
+<|assistant|>$12/FT for 1" pe directional bore improved landscape per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a cat d4 dozer w/sideboom?<|end|>
+<|assistant|>$62.45/hr is the T&M rate for a cat d4 dozer w/sideboom.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a compactor plate (attachment)?<|end|>
+<|assistant|>$30.37/hr is the T&M rate for a compactor plate (attachment).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a dump truck with pup?<|end|>
+<|assistant|>$74.69/hr is the T&M rate for a dump truck with pup.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a john deere 60d mini excavator?<|end|>
+<|assistant|>$37.34/hr is the T&M rate for a john deere 60d mini excavator.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>What was the Kilby Road Irrigation Waterline bid?<|end|>
+<|assistant|>The Kilby Road Irrigation Waterline project (Park City, Utah, 2021) was a waterline job. Tempest bid $316,466.37 total ($92.72/LF) for 3,413 LF of 8". Not awarded (bid submitted). Winning bid was $84.68/LF<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What's the unit price for 2" pe open trench under concrete?<|end|>
+<|assistant|>$12/FT for 2" pe open trench under concrete per Southwest Gas contract.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 6" relocation cost per foot in Utah?<|end|>
+<|assistant|>On the Midvale IHP Relocation project (Midvale, Utah, 2021), Tempest bid $168.38/LF for 3,015 LF of 6" IHP gas relocation. Total: $507,658.60. Not awarded.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for fire hydrant laterals on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Fire Hydrant Laterals was bid at $33/LF (500 LF x $33 = $16,500).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a welder's helper?<|end|>
+<|assistant|>On T&M work, a welder's helper bills at $51.85 per hour ($77.78/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for 1-1/2" state spec road base?<|end|>
+<|assistant|>$9.90/ton for 1-1/2" state spec road base at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a crew truck?<|end|>
+<|assistant|>$23.35/hr is the T&M rate for a crew truck.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>How much does 3" minus borrow cost?<|end|>
+<|assistant|>$9.45/ton for 3" minus borrow at Tempest rates from SPC's Beck Street, Salt Lake City location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>How much does a jumping jack compactor cost per hour on T&M?<|end|>
+<|assistant|>$18.70/hr is the T&M rate for a jumping jack compactor.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 1" service lateral on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 1" Service Lateral was bid at $42/LF (3,360 LF x $42 = $141,120).<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for asphalt millings (RAP)?<|end|>
+<|assistant|>$16.95/ton for asphalt millings (RAP) at Tempest rates from SPC's Keigley, Genola location (2024).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What unit price did Tempest use for 2" service lateral on the Herriman City job?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, 2" Service Lateral was bid at $52/LF (160 LF x $52 = $8,320).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>What's the unit cost for water mainline tie-ins on the Herriman City project?<|end|>
+<|assistant|>On the Herriman City Old Town Waterline Replacement project, Water Mainline Tie-Ins was bid at $6,661/EA (30 EA x $6,661 = $199,830).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What is the T&M rate for a meter setter?<|end|>
+<|assistant|>The T&M billing rate for a meter setter is $51.80/hr regular time, $77.70/hr overtime.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a mechanic/parts chaser?<|end|>
+<|assistant|>On T&M work, a mechanic/parts chaser bills at $57.69 per hour ($86.53/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have Tempest's Southwest Gas contract pricing data.<|end|>
+<|user|>What does traffic control (voucher) cost?<|end|>
+<|assistant|>Based on Southwest Gas contract, Traffic control (voucher) runs $48,000/MOB.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What's the hourly rate for a cat 315 / jd 120 excavator (small-mid)?<|end|>
+<|assistant|>The Cat 315 / JD 120 Excavator (Small-Mid) bills at $74.69/hr on T&M work.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Did Tempest win the Shepard Lane UDOT Relocation job?<|end|>
+<|assistant|>The Shepard Lane UDOT Relocation project (Utah, 2023) was a IHP gas relocation job. Total bid: $231,526. Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You know Tempest's actual historical bid prices.<|end|>
+<|user|>What does 6" relocation cost per foot in Utah?<|end|>
+<|assistant|>$423.11/LF for 6" IHP gas relocation at 6200 S UDOT Relocation (2022). 2,895 LF, total $1,224,906.75. Did not win.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' project bid history and unit prices.<|end|>
+<|user|>How much per EA did we bid for 2" service meter box & setter?<|end|>
+<|assistant|>Tempest used $6,948/EA for 2" service meter box & setter on the Herriman City job. Total: $13,896 for 2 EA.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual labor and equipment rates.<|end|>
+<|user|>What do we charge per hour for a fuser?<|end|>
+<|assistant|>On T&M work, a fuser bills at $51.85 per hour ($77.78/hr OT).<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have detailed knowledge of Tempest Enterprises' historical bid data.<|end|>
+<|user|>Tell me about the Dyno Nobel Gas Line project.<|end|>
+<|assistant|>The Dyno Nobel Gas Line project (Tooele, Utah, 2023) was a IHP gas line job. Tempest bid $113,144 total ($34.92/LF) for 3,240 LF of 4". Awarded to tempest.<|end|>
+
+<|system|>You are Mason, a personal AI assistant built by Mason Earl. You have access to Tempest Enterprises' actual equipment billing rates.<|end|>
+<|user|>What do we charge for a case 580 / jd 310 rubber tired backhoe?<|end|>
+<|assistant|>$37.34/hr is the T&M rate for a case 580 / jd 310 rubber tired backhoe.<|end|>
+
+<|system|>You are Mason, a personal AI assistant. You have Tempest's 2024 SPC aggregate pricing.<|end|>
+<|user|>What does Tempest pay for asphalt millings (RAP)?<|end|>
+<|assistant|>Per SPC's 2024 Tempest pricing, asphalt millings (RAP) is $18.50/ton from the Beck Street, Salt Lake City quarry.<|end|>
