@@ -20,11 +20,17 @@ from pathlib import Path
 from html.parser import HTMLParser
 
 SCRIPT_DIR = Path(__file__).resolve().parent
+
 # Support both original repo structure (../../data) and contech1 flat structure (./data)
 _data_orig = SCRIPT_DIR / ".." / ".." / "data"
 _data_flat = SCRIPT_DIR / "data"
 DATA_DIR = _data_orig if (_data_orig / "materials.json").exists() else _data_flat
-SITE_ROOT = SCRIPT_DIR / ".." / ".." / ".." / ".." / ".."   # masonearl.com root
+
+# SITE_ROOT: only scrape website content if running inside the masonearl.com repo.
+# In the flat contech1 repo, skip website scraping entirely to avoid scanning the filesystem.
+_site_orig = SCRIPT_DIR / ".." / ".." / ".." / ".." / ".."
+SITE_ROOT = _site_orig if (_site_orig / "pages").exists() else None
+
 CORPUS_DIR = SCRIPT_DIR / "corpus"
 CORPUS_DIR.mkdir(exist_ok=True)
 
@@ -124,6 +130,9 @@ def extract_json_text(filepath):
 
 def build_website_corpus():
     """Scrape all website content into training text."""
+    if SITE_ROOT is None:
+        print("  (Website scraping skipped — not in masonearl.com repo)")
+        return "", [], 0
     site = SITE_ROOT.resolve()
     sections = []
     page_count = 0
