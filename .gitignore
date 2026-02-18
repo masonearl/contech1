@@ -1,34 +1,6 @@
-# Environment variables
-.env
-backend/.env
-*.env
-
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
+*.pyc
+.env
 .venv
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
+checkpoints/
 *.log
-
-# API Keys (extra safety)
-*api_key*
-*secret*
-*token*
-.vercel
